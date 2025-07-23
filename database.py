@@ -1,8 +1,8 @@
+import os
 from pymongo import MongoClient
 from datetime import datetime
 
-# Adjust the URI as needed for your environment
-MONGO_URI = 'mongodb://localhost:27017/'
+MONGO_URI = os.environ.get('MONGO_URI', 'mongodb://localhost:27017/')
 DB_NAME = 'chatbot_db'
 COLLECTION_NAME = 'chat_logs'
 
