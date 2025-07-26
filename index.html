@@ -401,7 +401,7 @@
       avatar.alt = sender === 'bot' ? 'Bot' : 'User';
       const messageContent = document.createElement('div');
       messageContent.className = sender === 'bot' ? 'bot-message' : 'user-message';
-      messageContent.textContent = message;
+      messageContent.innerHTML = message.replace(/\n/g, '<br>');
       messageDiv.appendChild(avatar);
       messageDiv.appendChild(messageContent);
       chatBox.appendChild(messageDiv);

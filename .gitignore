@@ -1,7 +1,23 @@
-venv/
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
-.DS_Store 
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Data/model cache (if not versioning)
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db 
+
+faq_embeddings.npy
+accuracy_report.txt

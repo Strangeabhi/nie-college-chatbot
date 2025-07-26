@@ -1,238 +1,1704 @@
 [
-    {
+  {
+    "category": "General Information",
+    "questions": [
+      {
         "question": "What is NIE?",
-        "answer": "The National Institute of Engineering (NIE) is an engineering college located in Mysuru, Karnataka, India."
-    },
-    {
+        "answer": "The National Institute of Engineering (NIE) is a premier engineering college located in Mysuru, Karnataka, India, established in 1946. It is one of the oldest and most prestigious engineering institutions in Karnataka."
+      },
+      {
         "question": "What does NIE stand for?",
-        "answer": "The National Institute of Engineering (NIE) is an engineering college located in Mysuru, Karnataka, India."
-    },
-    {
-        "question": "nie",
-        "answer": "The National Institute of Engineering (NIE) is an engineering college located in Mysuru, Karnataka, India."
-    },
-    {
+        "answer": "NIE stands for The National Institute of Engineering, a renowned engineering college in Mysuru, Karnataka, India."
+      },
+      {
         "question": "nie full form",
-        "answer": "The National Institute of Engineering (NIE) is an engineering college located in Mysuru, Karnataka, India."
-    },
-    {
+        "answer": "NIE stands for The National Institute of Engineering, a prestigious engineering institution in Mysuru."
+      },
+      {
+        "question": "Where is NIE located?",
+        "answer": "NIE is located at Manandavadi Road, Mysuru – 570008, Karnataka, India."
+      },
+      {
+        "question": "What is the address of NIE?",
+        "answer": "The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
+      },
+      {
+        "question": "location",
+        "answer": "NIE is situated at Manandavadi Road, Mysuru – 570008, Karnataka, India."
+      },
+      {
+        "question": "address",
+        "answer": "The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
+      },
+      {
         "question": "What is the official website of NIE?",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-    },
-    {
+      },
+      {
         "question": "college website",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-    },
-    {
+      },
+      {
         "question": "website",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-    },
-    {
+      },
+      {
         "question": "How can I contact NIE?",
         "answer": "You can contact NIE through their official email: nieprincipal@nie.ac.in or call at +91-821-2480475."
-    },
-    {
+      },
+      {
         "question": "contact",
         "answer": "You can contact NIE through their official email: nieprincipal@nie.ac.in or call at +91-821-2480475."
-    },
-    {
-        "question": "What is the address of NIE?",
-        "answer": "The address is: The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
-    },
-    {
-        "question": "location",
-        "answer": "The address is: The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
-    },
-    {
-        "question": "address",
-        "answer": "The address is: The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
-    },
-    {
-        "question": "What are the hostel facilities at NIE?",
-        "answer": "Hostels include WiFi, mess, laundry, study rooms, and common rooms. Separate facilities are available for boys and girls."
-    },
-    {
-        "question": "hostel",
-        "answer": "Hostels include WiFi, mess, laundry, study rooms, and common rooms. Separate facilities are available for boys and girls."
-    },
-    {
-        "question": "hostel facilities",
-        "answer": "Hostels include WiFi, mess, laundry, study rooms, and common rooms. Separate facilities are available for boys and girls."
-    },
-    {
-        "question": "How can I get admission to NIE?",
-        "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses."
-    },
-    {
-        "question": "admission",
-        "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses."
-    },
-    {
-        "question": "kcet",
-        "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses."
-    },
-    {
-        "question": "comedk",
-        "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses."
-    },
-    {
-        "question": "What branches or courses are offered at NIE?",
-        "answer": "NIE offers branches like Computer Science, ECE, EEE, Mechanical, Civil, and more."
-    },
-    {
-        "question": "branches",
-        "answer": "NIE offers branches like Computer Science, ECE, EEE, Mechanical, Civil, and more."
-    },
-    {
-        "question": "courses",
-        "answer": "NIE offers branches like Computer Science, ECE, EEE, Mechanical, Civil, and more."
-    },
-    {
-        "question": "What fests are organized at NIE?",
-        "answer": "NIE organizes various fests including TECHNIEKS (technical) and college cultural events annually."
-    },
-    {
-        "question": "fest",
-        "answer": "NIE organizes various fests including TECHNIEKS (technical) and college cultural events annually."
-    },
-    {
-        "question": "technieks",
-        "answer": "NIE organizes various fests including TECHNIEKS (technical) and college cultural events annually."
-    },
-    {
-        "question": "Are there clubs at NIE?",
-        "answer": "NIE has clubs like IEEE, IETE, CSI, music and dance clubs, and a robotics club."
-    },
-    {
-        "question": "clubs",
-        "answer": "NIE has clubs like IEEE, IETE, CSI, music and dance clubs, and a robotics club."
-    },
-    {
-        "question": "coding club",
-        "answer": "NIE has clubs like IEEE, IETE, CSI, music and dance clubs, and a robotics club."
-    },
-    {
-        "question": "How are placements at NIE?",
-        "answer": "NIE has a strong placement cell and companies like Infosys, TCS, Bosch, and Wipro visit the campus."
-    },
-    {
-        "question": "placement",
-        "answer": "NIE has a strong placement cell and companies like Infosys, TCS, Bosch, and Wipro visit the campus."
-    },
-    {
-        "question": "recruiters",
-        "answer": "NIE has a strong placement cell and companies like Infosys, TCS, Bosch, and Wipro visit the campus."
-    },
-    {
-        "question": "What are the campus facilities at NIE?",
-        "answer": "NIE campus includes modern classrooms, labs, auditoriums, sports complex, and hostels."
-    },
-    {
-        "question": "campus",
-        "answer": "NIE campus includes modern classrooms, labs, auditoriums, sports complex, and hostels."
-    },
-    {
-        "question": "What facilities does the library offer?",
-        "answer": "NIE’s library is well-equipped with technical books, journals, digital access, and study zones."
-    },
-    {
-        "question": "library",
-        "answer": "NIE’s library is well-equipped with technical books, journals, digital access, and study zones."
-    },
-    {
-        "question": "Is there a canteen on campus?",
-        "answer": "The canteen provides hygienic food at affordable prices for students and staff."
-    },
-    {
-        "question": "canteen",
-        "answer": "The canteen provides hygienic food at affordable prices for students and staff."
-    },
-    {
-        "question": "How is the faculty at NIE?",
-        "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers."
-    },
-    {
-        "question": "faculty",
-        "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers."
-    },
-    {
+      },
+      {
+        "question": "contact number",
+        "answer": "You can contact NIE at +91-821-2480475."
+      },
+      {
+        "question": "phone number",
+        "answer": "NIE's phone number is +91-821-2480475."
+      },
+      {
+        "question": "email",
+        "answer": "NIE's official email is nieprincipal@nie.ac.in"
+      },
+      {
         "question": "What is the ranking of NIE?",
-        "answer": "NIE is ranked among the top engineering colleges in Karnataka."
-    },
-    {
+        "answer": "NIE is ranked among the top engineering colleges in Karnataka and is consistently ranked in the top 50 engineering colleges in India by various ranking agencies."
+      },
+      {
         "question": "ranking",
-        "answer": "NIE is ranked among the top engineering colleges in Karnataka."
-    },
-    {
+        "answer": "NIE is ranked among the top engineering colleges in Karnataka and is consistently ranked in the top 50 engineering colleges in India by various ranking agencies."
+      },
+      {
+        "question": "college ranking",
+        "answer": "NIE is ranked among the top engineering colleges in Karnataka and is consistently ranked in the top 50 engineering colleges in India by various ranking agencies."
+      },
+      {
         "question": "Is NIE accredited by NAAC or NBA?",
-        "answer": "NIE is accredited by NAAC with A grade and NBA for various departments."
-    },
-    {
+        "answer": "NIE is accredited by NAAC with A grade and NBA for various departments. The college maintains high academic standards and quality assurance."
+      },
+      {
         "question": "naac",
-        "answer": "NIE is accredited by NAAC with A grade and NBA for various departments."
-    },
-    {
+        "answer": "NIE is accredited by NAAC with A grade, indicating excellent academic standards and institutional quality."
+      },
+      {
         "question": "nba",
-        "answer": "NIE is accredited by NAAC with A grade and NBA for various departments."
+        "answer": "NIE has NBA accreditation for various engineering departments, ensuring quality education and recognition."
+      },
+      {
+        "question": "accreditation",
+        "answer": "NIE is accredited by NAAC with A grade and NBA for various departments, ensuring high quality education standards."
+      },
+      {
+        "question": "When was NIE established?",
+        "answer": "The National Institute of Engineering was established in 1946, making it one of the oldest engineering institutions in Karnataka."
+      },
+      {
+        "question": "establishment year",
+        "answer": "NIE was established in 1946 and has been providing quality engineering education for over 75 years."
+      },
+      {
+        "question": "How old is NIE?",
+        "answer": "NIE was established in 1946, making it over 75 years old and one of the oldest engineering colleges in Karnataka."
+      },
+      {
+        "question": "What type of institution is NIE?",
+        "answer": "NIE is a private, autonomous engineering college affiliated to Visvesvaraya Technological University (VTU), Belagavi."
+      },
+      {
+        "question": "Is NIE private or government?",
+        "answer": "NIE is a private, autonomous engineering college affiliated to Visvesvaraya Technological University (VTU)."
+      },
+      {
+        "question": "affiliation",
+        "answer": "NIE is affiliated to Visvesvaraya Technological University (VTU), Belagavi, Karnataka."
+      },
+      {
+        "question": "vtu",
+        "answer": "NIE is affiliated to Visvesvaraya Technological University (VTU), Belagavi, Karnataka."
+      },
+      {
+        "question": "What is the campus size of NIE?",
+        "answer": "NIE has a sprawling campus spread across acres of land with modern infrastructure, laboratories, hostels, and sports facilities."
+      },
+      {
+        "question": "campus size",
+        "answer": "NIE has a large campus with modern infrastructure, laboratories, hostels, and sports facilities spread across acres of land."
+      },
+      {
+        "question": "Is NIE autonomous?",
+        "answer": "Yes, NIE is an autonomous institution affiliated to Visvesvaraya Technological University (VTU), which allows it to design its own curriculum and conduct examinations."
+      },
+      {
+        "question": "autonomous",
+        "answer": "Yes, NIE is an autonomous institution affiliated to VTU, allowing it to design its own curriculum and conduct examinations."
+      }
+    ]
+  },
+  {
+    "category": "Branches and Courses",
+    "questions": [
+      {
+        "question": "What branches or courses are offered at NIE?",
+        "answer": "NIE offers undergraduate programs in:\n- Computer Science Engineering (CSE)\n- Computer Science & Engineering – AI & ML (CI)\n- Information Science Engineering (ISE)\n- Electronics and Communication Engineering (ECE)\n- Electrical and Electronics Engineering (EEE)\n- Mechanical Engineering\n- Civil Engineering."
+      },
+      {
+        "question": "branches",
+        "answer": "NIE offers branches like:\n- Computer Science Engineering (CSE)\n- Computer Science & Engineering – AI & ML (CI)\n- Information Science Engineering (ISE)\n- Electronics and Communication Engineering (ECE)\n- Electrical and Electronics Engineering (EEE)\n- Mechanical Engineering\n- Civil Engineering."
+      },
+      {
+        "question": "courses",
+        "answer": "NIE offers undergraduate programs in Computer Science Engineering (CSE), Computer Science & Engineering – AI & ML (CI), Information Science Engineering (ISE), Electronics and Communication Engineering (ECE), Electrical and Electronics Engineering (EEE), Mechanical Engineering, and Civil Engineering."
+      },
+      {
+        "question": "What is CSE at NIE?",
+        "answer": "Computer Science Engineering (CSE) at NIE is a 4-year undergraduate program focusing on computer programming, software development, algorithms, data structures, and computer systems."
+      },
+      {
+        "question": "cse",
+        "answer": "Computer Science Engineering (CSE) at NIE is a 4-year undergraduate program focusing on computer programming, software development, algorithms, data structures, and computer systems."
+      },
+      {
+        "question": "computer science",
+        "answer": "Computer Science Engineering (CSE) at NIE is a 4-year undergraduate program focusing on computer programming, software development, algorithms, data structures, and computer systems."
+      },
+      {
+        "question": "What is AIML at NIE?",
+        "answer": "There is no separate AIML branch at NIE. However, there is a branch called CI (Computer Science & Engineering – AI & ML), which covers all aspects of artificial intelligence and machine learning as part of a comprehensive computer science program."
+      },
+      {
+        "question": "aiml",
+        "answer": "There is no separate AIML branch at NIE. However, there is a branch called CI (Computer Science & Engineering – AI & ML), which covers all aspects of artificial intelligence and machine learning as part of a comprehensive computer science program."
+      },
+      {
+        "question": "artificial intelligence",
+        "answer": "There is no separate AIML branch at NIE. However, there is a branch called CI (Computer Science & Engineering – AI & ML), which covers all aspects of artificial intelligence and machine learning as part of a comprehensive computer science program."
+      },
+      {
+        "question": "machine learning",
+        "answer": "There is no separate AIML branch at NIE. However, there is a branch called CI (Computer Science & Engineering – AI & ML), which covers all aspects of artificial intelligence and machine learning as part of a comprehensive computer science program."
+      },
+      {
+        "question": "What is ISE at NIE?",
+        "answer": "Information Science Engineering (ISE) at NIE is a 4-year undergraduate program focusing on information systems, database management, software engineering, and information technology."
+      },
+      {
+        "question": "ise",
+        "answer": "Information Science Engineering (ISE) at NIE is a 4-year undergraduate program focusing on information systems, database management, software engineering, and information technology."
+      },
+      {
+        "question": "information science",
+        "answer": "Information Science Engineering (ISE) at NIE is a 4-year undergraduate program focusing on information systems, database management, software engineering, and information technology."
+      },
+      {
+        "question": "What is ECE at NIE?",
+        "answer": "Electronics and Communication Engineering (ECE) at NIE is a 4-year undergraduate program focusing on electronic circuits, communication systems, signal processing, and telecommunications."
+      },
+      {
+        "question": "ece",
+        "answer": "Electronics and Communication Engineering (ECE) at NIE is a 4-year undergraduate program focusing on electronic circuits, communication systems, signal processing, and telecommunications."
+      },
+      {
+        "question": "electronics",
+        "answer": "Electronics and Communication Engineering (ECE) at NIE is a 4-year undergraduate program focusing on electronic circuits, communication systems, signal processing, and telecommunications."
+      },
+      {
+        "question": "What is EEE at NIE?",
+        "answer": "Electrical and Electronics Engineering (EEE) at NIE is a 4-year undergraduate program focusing on electrical systems, power electronics, control systems, and electrical machines."
+      },
+      {
+        "question": "eee",
+        "answer": "Electrical and Electronics Engineering (EEE) at NIE is a 4-year undergraduate program focusing on electrical systems, power electronics, control systems, and electrical machines."
+      },
+      {
+        "question": "electrical",
+        "answer": "Electrical and Electronics Engineering (EEE) at NIE is a 4-year undergraduate program focusing on electrical systems, power electronics, control systems, and electrical machines."
+      },
+      {
+        "question": "What is Mechanical Engineering at NIE?",
+        "answer": "Mechanical Engineering at NIE is a 4-year undergraduate program focusing on mechanical systems, thermodynamics, manufacturing processes, and machine design."
+      },
+      {
+        "question": "mechanical",
+        "answer": "Mechanical Engineering at NIE is a 4-year undergraduate program focusing on mechanical systems, thermodynamics, manufacturing processes, and machine design."
+      },
+      {
+        "question": "mech",
+        "answer": "Mechanical Engineering at NIE is a 4-year undergraduate program focusing on mechanical systems, thermodynamics, manufacturing processes, and machine design."
+      },
+      {
+        "question": "What is Civil Engineering at NIE?",
+        "answer": "Civil Engineering at NIE is a 4-year undergraduate program focusing on structural engineering, construction management, transportation, and environmental engineering."
+      },
+      {
+        "question": "civil",
+        "answer": "Civil Engineering at NIE is a 4-year undergraduate program focusing on structural engineering, construction management, transportation, and environmental engineering."
+      },
+      {
+        "question": "How many years is the B.Tech program?",
+        "answer": "The B.Tech program at NIE is a 4-year (8 semesters) undergraduate engineering program."
+      },
+      {
+        "question": "btech duration",
+        "answer": "The B.Tech program at NIE is a 4-year (8 semesters) undergraduate engineering program."
+      },
+      {
+        "question": "course duration",
+        "answer": "The B.Tech program at NIE is a 4-year (8 semesters) undergraduate engineering program."
+      },
+      {
+        "question": "What are the KCET cutoffs for NIE?",
+        "answer": "KCET cutoffs for NIE (last available year):\n- College code (E178): CSE: 8726, CI: 11300\n- College code (E022): ECE (Aided): 95447, ME (Aided): 42543, Civil Engineering (Aided): 95447\n- College code (E056): EEE (Unaided): 35887, ECE (Unaided): 48525, ME (Unaided): 61681, Civil Engineering (Unaided): 115835."
+      },
+      {
+        "question": "kcet cutoff",
+        "answer": "KCET cutoffs for NIE (last available year):\n- College code (E178): CSE: 8726, CI: 11300\n- College code (E022): ECE (Aided): 95447, ME (Aided): 42543, Civil Engineering (Aided): 95447\n- College code (E056): EEE (Unaided): 35887, ECE (Unaided): 48525, ME (Unaided): 61681, Civil Engineering (Unaided): 115835."
+      },
+      {
+        "question": "kcet rank",
+        "answer": "KCET cutoffs for NIE (last available year):\n- College code (E178): CSE: 8726, CI: 11300\n- College code (E022): ECE (Aided): 95447, ME (Aided): 42543, Civil Engineering (Aided): 95447\n- College code (E056): EEE (Unaided): 35887, ECE (Unaided): 48525, ME (Unaided): 61681, Civil Engineering (Unaided): 115835."
+      },
+      {
+        "question": "What are the COMEDK cutoffs for NIE?",
+        "answer": "COMEDK cutoffs for NIE (last available year):\n- CSE (E085): 10182\n- CI (E085): 12789\n- ECE (E142): 29308\n- EEE (E142): 101747\n- ME (E142): 95259\n- Civil Engineering (E142): 80212."
+      },
+      {
+        "question": "comedk cutoff",
+        "answer": "COMEDK cutoffs for NIE (last available year):\n- CSE (E085): 10182\n- CI (E085): 12789\n- ECE (E142): 29308\n- EEE (E142): 101747\n- ME (E142): 95259\n- Civil Engineering (E142): 80212."
+      },
+      {
+        "question": "comedk rank",
+        "answer": "COMEDK cutoffs for NIE (last available year):\n- CSE (E085): 10182\n- CI (E085): 12789\n- ECE (E142): 29308\n- EEE (E142): 101747\n- ME (E142): 95259\n- Civil Engineering (E142): 80212."
+      },
+      {
+        "question": "Which branch has the highest cutoff at NIE?",
+        "answer": "Computer Science Engineering (CSE) and Computer Science & Engineering – AI & ML (CI) typically have the highest cutoffs at NIE, followed by Information Science Engineering (ISE)."
+      },
+      {
+        "question": "highest cutoff",
+        "answer": "Computer Science Engineering (CSE) and Computer Science & Engineering – AI & ML (CI) typically have the highest cutoffs at NIE, followed by Information Science Engineering (ISE)."
+      },
+      {
+        "question": "Which branch has the lowest cutoff at NIE?",
+        "answer": "Civil Engineering typically has the lowest cutoff at NIE, followed by Mechanical Engineering and Electrical and Electronics Engineering (EEE)."
+      },
+      {
+        "question": "lowest cutoff",
+        "answer": "Civil Engineering typically has the lowest cutoff at NIE, followed by Mechanical Engineering and Electrical and Electronics Engineering (EEE)."
+      },
+      {
+        "question": "How many seats are available in each branch?",
+        "answer": "NIE typically has around 60-120 seats per branch, with CSE and ECE having more seats compared to other branches. The exact number may vary each year."
+      },
+      {
+        "question": "seats per branch",
+        "answer": "NIE typically has around 60-120 seats per branch, with CSE and ECE having more seats compared to other branches. The exact number may vary each year."
+      },
+      {
+        "question": "total seats",
+        "answer": "NIE typically has around 60-120 seats per branch, with CSE and ECE having more seats compared to other branches. The exact number may vary each year."
+             }
+     ]
+   },
+   {
+     "category": "Hostels and Accommodation",
+     "questions": [
+       {
+         "question": "What are the hostel facilities at NIE?",
+         "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
+       },
+       {
+         "question": "hostel",
+         "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
+       },
+       {
+         "question": "hostel facilities",
+         "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
+       },
+       {
+         "question": "Are hostels available at NIE?",
+         "answer": "Yes, NIE provides hostel accommodation for both boys and girls with modern facilities including WiFi, mess, laundry, study rooms, and 24/7 security."
+       },
+       {
+         "question": "hostel accommodation",
+         "answer": "Yes, NIE provides hostel accommodation for both boys and girls with modern facilities including WiFi, mess, laundry, study rooms, and 24/7 security."
+       },
+       {
+         "question": "What are the hostel fees at NIE?",
+         "answer": "Hostel fees at NIE vary between ₹60,000 to ₹80,000 per year depending on the type of accommodation (single/double sharing) and facilities. Mess fees are additional."
+       },
+       {
+         "question": "hostel fees",
+         "answer": "Hostel fees at NIE vary between ₹60,000 to ₹80,000 per year depending on the type of accommodation (single/double sharing) and facilities. Mess fees are additional."
+       },
+       {
+         "question": "hostel cost",
+         "answer": "Hostel fees at NIE vary between ₹60,000 to ₹80,000 per year depending on the type of accommodation (single/double sharing) and facilities. Mess fees are additional."
+       },
+       {
+         "question": "Is WiFi available in hostels?",
+         "answer": "Yes, high-speed WiFi is available in all NIE hostels for students to access internet for academic and personal use."
+       },
+       {
+         "question": "hostel wifi",
+         "answer": "Yes, high-speed WiFi is available in all NIE hostels for students to access internet for academic and personal use."
+       },
+       {
+         "question": "What food facilities are available in hostels?",
+         "answer": "NIE hostels have mess facilities providing three meals a day (breakfast, lunch, dinner) with vegetarian and non-vegetarian options. The food is hygienic and prepared under supervision."
+       },
+       {
+         "question": "hostel mess",
+         "answer": "NIE hostels have mess facilities providing three meals a day (breakfast, lunch, dinner) with vegetarian and non-vegetarian options. The food is hygienic and prepared under supervision."
+       },
+       {
+         "question": "hostel food",
+         "answer": "NIE hostels have mess facilities providing three meals a day (breakfast, lunch, dinner) with vegetarian and non-vegetarian options. The food is hygienic and prepared under supervision."
+       },
+       {
+         "question": "Are there separate hostels for boys and girls?",
+         "answer": "Yes, NIE has separate hostel facilities for boys and girls with dedicated buildings and security measures to ensure safety and privacy."
+       },
+       {
+         "question": "boys hostel",
+         "answer": "Yes, NIE has separate hostel facilities for boys and girls with dedicated buildings and security measures to ensure safety and privacy."
+       },
+       {
+         "question": "girls hostel",
+         "answer": "Yes, NIE has separate hostel facilities for boys and girls with dedicated buildings and security measures to ensure safety and privacy."
+       },
+       {
+         "question": "What are the hostel timings?",
+         "answer": "NIE hostels have specific timings for entry and exit. Students need to follow hostel rules and curfew timings. Visitors are allowed during designated hours with proper permissions."
+       },
+       {
+         "question": "hostel timings",
+         "answer": "NIE hostels have specific timings for entry and exit. Students need to follow hostel rules and curfew timings. Visitors are allowed during designated hours with proper permissions."
+       },
+       {
+         "question": "curfew",
+         "answer": "NIE hostels have specific timings for entry and exit. Students need to follow hostel rules and curfew timings. Visitors are allowed during designated hours with proper permissions."
+       },
+       {
+         "question": "Are study rooms available in hostels?",
+         "answer": "Yes, NIE hostels have dedicated study rooms and common rooms where students can study, work on projects, or relax during their free time."
+       },
+       {
+         "question": "study rooms",
+         "answer": "Yes, NIE hostels have dedicated study rooms and common rooms where students can study, work on projects, or relax during their free time."
+       },
+       {
+         "question": "Is laundry service available in hostels?",
+         "answer": "Yes, laundry services are available in NIE hostels. Students can use washing machines and drying facilities for their clothes."
+       },
+       {
+         "question": "laundry",
+         "answer": "Yes, laundry services are available in NIE hostels. Students can use washing machines and drying facilities for their clothes."
+       },
+       {
+         "question": "What security measures are in place at hostels?",
+         "answer": "NIE hostels have 24/7 security with CCTV cameras, security guards, and strict entry/exit protocols to ensure student safety."
+       },
+       {
+         "question": "hostel security",
+         "answer": "NIE hostels have 24/7 security with CCTV cameras, security guards, and strict entry/exit protocols to ensure student safety."
+       },
+       {
+         "question": "Are there north and south campus hostels?",
+         "answer": "Yes, NIE has hostels in both north and south campus areas, providing accommodation options closer to different academic buildings and facilities."
+       },
+       {
+         "question": "north campus hostel",
+         "answer": "Yes, NIE has hostels in both north and south campus areas, providing accommodation options closer to different academic buildings and facilities."
+       },
+       {
+         "question": "south campus hostel",
+         "answer": "Yes, NIE has hostels in both north and south campus areas, providing accommodation options closer to different academic buildings and facilities."
+       },
+       {
+         "question": "Can I get single room accommodation?",
+         "answer": "NIE offers both single and double sharing room options in hostels. Single room accommodation is available at higher fees and subject to availability."
+       },
+       {
+         "question": "single room",
+         "answer": "NIE offers both single and double sharing room options in hostels. Single room accommodation is available at higher fees and subject to availability."
+       },
+       {
+         "question": "double sharing",
+         "answer": "NIE offers both single and double sharing room options in hostels. Single room accommodation is available at higher fees and subject to availability."
+       },
+       {
+         "question": "How to apply for hostel accommodation?",
+         "answer": "Students can apply for hostel accommodation during admission or by contacting the hostel administration. Application forms are available at the college office."
+       },
+       {
+         "question": "hostel application",
+         "answer": "Students can apply for hostel accommodation during admission or by contacting the hostel administration. Application forms are available at the college office."
+       },
+       {
+         "question": "Are there any hostel rules?",
+         "answer": "Yes, NIE hostels have specific rules regarding timings, visitors, use of facilities, and general conduct that all students must follow."
+       },
+       {
+         "question": "hostel rules",
+         "answer": "Yes, NIE hostels have specific rules regarding timings, visitors, use of facilities, and general conduct that all students must follow."
+       },
+       {
+         "question": "What are the boys hostel fees at NIE?",
+         "answer": "The boys hostel at NIE offers only triple sharing rooms. The fee is ₹1,00,000 per year (2025-26). Transportation, if needed, is an additional ₹25,000 per year."
+       },
+       {
+         "question": "What are the girls hostel fees at NIE?",
+         "answer": "The girls hostel (South Yuvika NIE) fees for 2025-26 are:\n- Single occupancy: ₹1,43,000/year (includes ₹10,000 caution deposit)\n- Triple occupancy: ₹1,16,000/year (includes ₹10,000 caution deposit)\n- Quadruple occupancy: ₹1,02,000/year (includes ₹10,000 caution deposit)\nTransportation, if needed, is an additional ₹25,000 per year."
+       },
+       {
+         "question": "What is the transportation fee for hostel students at NIE?",
+         "answer": "The transportation fee for hostel students at NIE is ₹25,000 per year (optional, if availed)."
+       }
+     ]
+   },
+   {
+     "category": "Placements and Career",
+     "questions": [
+       {
+         "question": "How are placements at NIE?",
+         "answer": "NIE has excellent placement records with a strong placement cell. The average package is around ₹6-8 LPA, with highest packages reaching ₹25+ LPA. Top recruiters include Infosys, TCS, Wipro, Bosch, and many more."
+       },
+       {
+         "question": "placement",
+         "answer": "NIE has excellent placement records with a strong placement cell. The average package is around ₹6-8 LPA, with highest packages reaching ₹25+ LPA. Top recruiters include Infosys, TCS, Wipro, Bosch, and many more."
+       },
+       {
+         "question": "placement record",
+         "answer": "NIE has excellent placement records with a strong placement cell. The average package is around ₹6-8 LPA, with highest packages reaching ₹25+ LPA. Top recruiters include Infosys, TCS, Wipro, Bosch, and many more."
+       },
+       {
+         "question": "What is the highest package at NIE?",
+         "answer": "The highest package at NIE has reached ₹25+ LPA, with students from CSE, CI (Computer Science & Engineering – AI & ML), and ISE branches typically receiving the highest offers."
+       },
+       {
+         "question": "highest package",
+         "answer": "The highest package at NIE has reached ₹25+ LPA, with students from CSE, CI (Computer Science & Engineering – AI & ML), and ISE branches typically receiving the highest offers."
+       },
+       {
+         "question": "maximum salary",
+         "answer": "The highest package at NIE has reached ₹25+ LPA, with students from CSE, CI (Computer Science & Engineering – AI & ML), and ISE branches typically receiving the highest offers."
+       },
+       {
+         "question": "What is the average package at NIE?",
+         "answer": "The average package at NIE is around ₹6-8 LPA, with variations based on branch and student performance."
+       },
+       {
+         "question": "average package",
+         "answer": "The average package at NIE is around ₹6-8 LPA, with variations based on branch and student performance."
+       },
+       {
+         "question": "average salary",
+         "answer": "The average package at NIE is around ₹6-8 LPA, with variations based on branch and student performance."
+       },
+       {
+         "question": "Which companies visit NIE for placements?",
+         "answer": "Top companies visiting NIE include Infosys, TCS, Wipro, Bosch, Accenture, Cognizant, Capgemini, Tech Mahindra, L&T, and many other leading IT and core companies."
+       },
+       {
+         "question": "recruiters",
+         "answer": "Top companies visiting NIE include Infosys, TCS, Wipro, Bosch, Accenture, Cognizant, Capgemini, Tech Mahindra, L&T, and many other leading IT and core companies."
+       },
+       {
+         "question": "companies",
+         "answer": "Top companies visiting NIE include Infosys, TCS, Wipro, Bosch, Accenture, Cognizant, Capgemini, Tech Mahindra, L&T, and many other leading IT and core companies."
+       },
+       {
+         "question": "How is placement for CSE branch?",
+         "answer": "CSE branch at NIE has excellent placement records with high packages. Most students get placed in top IT companies with packages ranging from ₹4-25 LPA."
+       },
+       {
+         "question": "cse placement",
+         "answer": "CSE branch at NIE has excellent placement records with high packages. Most students get placed in top IT companies with packages ranging from ₹4-25 LPA."
+       },
+       {
+         "question": "How is placement for ECE branch?",
+         "answer": "ECE branch at NIE has good placement opportunities in both IT and core companies. Students get placed in companies like Bosch, L&T, and IT firms with packages ranging from ₹4-15 LPA."
+       },
+       {
+         "question": "ece placement",
+         "answer": "ECE branch at NIE has good placement opportunities in both IT and core companies. Students get placed in companies like Bosch, L&T, and IT firms with packages ranging from ₹4-15 LPA."
+       },
+       {
+         "question": "How is placement for Mechanical branch?",
+         "answer": "Mechanical branch at NIE has good placement opportunities in core companies like L&T, Bosch, and manufacturing firms. Packages typically range from ₹3-12 LPA."
+       },
+       {
+         "question": "mechanical placement",
+         "answer": "Mechanical branch at NIE has good placement opportunities in core companies like L&T, Bosch, and manufacturing firms. Packages typically range from ₹3-12 LPA."
+       },
+       {
+         "question": "How is placement for Civil branch?",
+         "answer": "Civil branch at NIE has placement opportunities in construction companies, consulting firms, and government organizations. Packages typically range from ₹3-10 LPA."
+       },
+       {
+         "question": "civil placement",
+         "answer": "Civil branch at NIE has placement opportunities in construction companies, consulting firms, and government organizations. Packages typically range from ₹3-10 LPA."
+       },
+       {
+         "question": "What is the placement percentage at NIE?",
+         "answer": "NIE typically achieves 80-90% placement rate across all branches, with CSE and CI (Computer Science & Engineering – AI & ML) branches having higher placement percentages."
+       },
+       {
+         "question": "placement percentage",
+         "answer": "NIE typically achieves 80-90% placement rate across all branches, with CSE and CI (Computer Science & Engineering – AI & ML) branches having higher placement percentages."
+       },
+       {
+         "question": "placement rate",
+         "answer": "NIE typically achieves 80-90% placement rate across all branches, with CSE and CI (Computer Science & Engineering – AI & ML) branches having higher placement percentages."
+       },
+       {
+         "question": "Does NIE have a placement cell?",
+         "answer": "Yes, NIE has a dedicated placement cell that coordinates with companies, organizes placement drives, provides career guidance, and helps students prepare for interviews."
+       },
+       {
+         "question": "placement cell",
+         "answer": "Yes, NIE has a dedicated placement cell that coordinates with companies, organizes placement drives, provides career guidance, and helps students prepare for interviews."
+       },
+       {
+         "question": "What training is provided for placements?",
+         "answer": "NIE provides training in technical skills, aptitude, communication, interview preparation, and soft skills through its placement cell and various workshops."
+       },
+       {
+         "question": "placement training",
+         "answer": "NIE provides training in technical skills, aptitude, communication, interview preparation, and soft skills through its placement cell and various workshops."
+       },
+       {
+         "question": "Are internships available at NIE?",
+         "answer": "Yes, NIE students get internship opportunities in various companies during their course. The college has tie-ups with companies for summer internships and projects."
+       },
+       {
+         "question": "internship",
+         "answer": "Yes, NIE students get internship opportunities in various companies during their course. The college has tie-ups with companies for summer internships and projects."
+       },
+       {
+         "question": "Do companies offer pre-placement offers?",
+         "answer": "Yes, many companies offer pre-placement offers (PPOs) to NIE students based on their internship performance and project work."
+       },
+       {
+         "question": "ppo",
+         "answer": "Yes, many companies offer pre-placement offers (PPOs) to NIE students based on their internship performance and project work."
+       },
+       {
+         "question": "pre placement offer",
+         "answer": "Yes, many companies offer pre-placement offers (PPOs) to NIE students based on their internship performance and project work."
+       },
+       {
+         "question": "What are the placement statistics by branch?",
+         "answer": "Placement statistics vary by branch:\n- CSE: 90-95%\n- CI (Computer Science & Engineering – AI & ML): 85-90%\n- ISE: 85-90%\n- ECE: 80-85%\n- EEE: 75-80%\n- Mechanical: 75-80%\n- Civil: 70-75%."
+       },
+       {
+         "question": "branch wise placement",
+         "answer": "Placement statistics vary by branch:\n- CSE: 90-95%\n- CI (Computer Science & Engineering – AI & ML): 85-90%\n- ISE: 85-90%\n- ECE: 80-85%\n- EEE: 75-80%\n- Mechanical: 75-80%\n- Civil: 70-75%."
+       },
+       {
+         "question": "placement statistics",
+         "answer": "Placement statistics vary by branch:\n- CSE: 90-95%\n- CI (Computer Science & Engineering – AI & ML): 85-90%\n- ISE: 85-90%\n- ECE: 80-85%\n- EEE: 75-80%\n- Mechanical: 75-80%\n- Civil: 70-75%."
+       },
+       {
+         "question": "What is the highest package at NIE in 2024?",
+         "answer": "The highest package at NIE in 2024 is ₹70 LPA."
+       },
+       {
+         "question": "What is the average package at NIE?",
+         "answer": "The overall average package at NIE is ₹8–10 LPA."
+       },
+       {
+         "question": "Which branches have the best placements at NIE?",
+         "answer": "The top branches for placements at NIE are CSE (Computer Science & Engineering), CI (Computer Science & Engineering – AI & ML), and ISE (Information Science & Engineering)."
+       },
+       {
+         "question": "What is the average package for core branches at NIE?",
+         "answer": "The average package for core branches (Mechanical, EEE, Civil) at NIE is ₹5–6 LPA."
+       },
+       {
+         "question": "Who are the top recruiters at NIE?",
+         "answer": "Top recruiters at NIE include:\n- Amazon\n- Microsoft\n- SAP\n- Infosys\n- TCS\n- Bosch\n- Mercedes\n- and many more leading companies."
+       },
+       {
+         "question": "What is the placement percentage at NIE?",
+         "answer": "The placement percentage at NIE is approximately 90% for CSE, CI (AI & ML), and ISE branches, and 70–80% for core branches (Mechanical, EEE, Civil)."
+       }
+     ]
+   },
+   {
+     "category": "Admissions and Eligibility",
+     "questions": [
+       {
+         "question": "How can I get admission to NIE?",
+         "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
+       },
+       {
+         "question": "admission",
+         "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
+       },
+       {
+         "question": "admission process",
+         "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
+       },
+       {
+         "question": "What is KCET?",
+         "answer": "KCET (Karnataka Common Entrance Test) is a state-level entrance exam for admission to engineering colleges in Karnataka. NIE accepts KCET scores for admission."
+       },
+       {
+         "question": "kcet",
+         "answer": "KCET (Karnataka Common Entrance Test) is a state-level entrance exam for admission to engineering colleges in Karnataka. NIE accepts KCET scores for admission."
+       },
+       {
+         "question": "karnataka cet",
+         "answer": "KCET (Karnataka Common Entrance Test) is a state-level entrance exam for admission to engineering colleges in Karnataka. NIE accepts KCET scores for admission."
+       },
+       {
+         "question": "What is COMEDK?",
+         "answer": "COMEDK (Consortium of Medical, Engineering and Dental Colleges of Karnataka) is an entrance exam for admission to private engineering colleges in Karnataka. NIE accepts COMEDK scores."
+       },
+       {
+         "question": "comedk",
+         "answer": "COMEDK (Consortium of Medical, Engineering and Dental Colleges of Karnataka) is an entrance exam for admission to private engineering colleges in Karnataka. NIE accepts COMEDK scores."
+       },
+       {
+         "question": "What is management quota?",
+         "answer": "Management quota is a category of admission where a certain percentage of seats are filled directly by the college based on merit and other criteria, usually at higher fees."
+       },
+       {
+         "question": "management quota",
+         "answer": "Management quota is a category of admission where a certain percentage of seats are filled directly by the college based on merit and other criteria, usually at higher fees."
+       },
+       {
+         "question": "What documents are required for admission?",
+         "answer": "Required documents include: 10th and 12th mark sheets, entrance exam scorecard, caste certificate (if applicable), income certificate, transfer certificate, and passport size photographs."
+       },
+       {
+         "question": "admission documents",
+         "answer": "Required documents include: 10th and 12th mark sheets, entrance exam scorecard, caste certificate (if applicable), income certificate, transfer certificate, and passport size photographs."
+       },
+       {
+         "question": "required documents",
+         "answer": "Required documents include: 10th and 12th mark sheets, entrance exam scorecard, caste certificate (if applicable), income certificate, transfer certificate, and passport size photographs."
+       },
+       {
+         "question": "What is the eligibility criteria for NIE?",
+         "answer": "Eligibility: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% marks (40% for SC/ST). Students must qualify KCET or COMEDK entrance exam."
+       },
+       {
+         "question": "eligibility",
+         "answer": "Eligibility: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% marks (40% for SC/ST). Students must qualify KCET or COMEDK entrance exam."
+       },
+       {
+         "question": "eligibility criteria",
+         "answer": "Eligibility: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% marks (40% for SC/ST). Students must qualify KCET or COMEDK entrance exam."
+       },
+       {
+         "question": "What is the minimum percentage required?",
+         "answer": "Minimum 45% marks in 10+2 with PCM (Physics, Chemistry, Mathematics) is required. For SC/ST candidates, minimum 40% marks are required."
+       },
+       {
+         "question": "minimum percentage",
+         "answer": "Minimum 45% marks in 10+2 with PCM (Physics, Chemistry, Mathematics) is required. For SC/ST candidates, minimum 40% marks are required."
+       },
+       {
+         "question": "What subjects are required in 12th?",
+         "answer": "Students must have studied Physics, Chemistry, and Mathematics (PCM) in 10+2 for admission to engineering courses at NIE."
+       },
+       {
+         "question": "pcm",
+         "answer": "Students must have studied Physics, Chemistry, and Mathematics (PCM) in 10+2 for admission to engineering courses at NIE."
+       },
+       {
+         "question": "required subjects",
+         "answer": "Students must have studied Physics, Chemistry, and Mathematics (PCM) in 10+2 for admission to engineering courses at NIE."
+       },
+       {
+         "question": "When does admission process start?",
+         "answer": "Admission process typically starts in June-July after KCET and COMEDK results are declared. Students should check the official website for exact dates."
+       },
+       {
+         "question": "admission dates",
+         "answer": "Admission process typically starts in June-July after KCET and COMEDK results are declared. Students should check the official website for exact dates."
+       },
+       {
+         "question": "admission timeline",
+         "answer": "Admission process typically starts in June-July after KCET and COMEDK results are declared. Students should check the official website for exact dates."
+       },
+       {
+         "question": "What is the fee structure for different quotas?",
+         "answer": "Fee structure varies: KCET quota (government fee), COMEDK quota (higher than KCET), Management quota (highest fee). Exact amounts are available on the college website."
+       },
+       {
+         "question": "fee structure",
+         "answer": "Fee structure varies: KCET quota (government fee), COMEDK quota (higher than KCET), Management quota (highest fee). Exact amounts are available on the college website."
+       },
+       {
+         "question": "admission fees",
+         "answer": "Fee structure varies: KCET quota (government fee), COMEDK quota (higher than KCET), Management quota (highest fee). Exact amounts are available on the college website."
+       },
+       {
+         "question": "Is there any reservation policy?",
+         "answer": "Yes, NIE follows government reservation policy: SC (15%), ST (3%), OBC (27%), EWS (10%), and other categories as per government norms."
+       },
+       {
+         "question": "reservation",
+         "answer": "Yes, NIE follows government reservation policy: SC (15%), ST (3%), OBC (27%), EWS (10%), and other categories as per government norms."
+       },
+       {
+         "question": "reservation policy",
+         "answer": "Yes, NIE follows government reservation policy: SC (15%), ST (3%), OBC (27%), EWS (10%), and other categories as per government norms."
+       },
+       {
+         "question": "Can I apply for multiple branches?",
+         "answer": "Yes, students can apply for multiple branches during counseling based on their rank and preference. They can choose branch preferences in order of priority."
+       },
+       {
+         "question": "multiple branches",
+         "answer": "Yes, students can apply for multiple branches during counseling based on their rank and preference. They can choose branch preferences in order of priority."
+       },
+       {
+         "question": "branch preference",
+         "answer": "Yes, students can apply for multiple branches during counseling based on their rank and preference. They can choose branch preferences in order of priority."
+       },
+       {
+         "question": "What is the counseling process?",
+         "answer": "Counseling involves document verification, branch selection based on rank, seat allotment, and fee payment. Students must attend counseling in person with all required documents."
+       },
+       {
+         "question": "counseling",
+         "answer": "Counseling involves document verification, branch selection based on rank, seat allotment, and fee payment. Students must attend counseling in person with all required documents."
+       },
+       {
+         "question": "counseling process",
+         "answer": "Counseling involves document verification, branch selection based on rank, seat allotment, and fee payment. Students must attend counseling in person with all required documents."
+       },
+       {
+         "question": "Is there any entrance exam preparation?",
+         "answer": "NIE does not conduct its own entrance exam. Students need to prepare for KCET or COMEDK exams. The college may provide guidance but does not offer coaching."
+       },
+       {
+         "question": "entrance preparation",
+         "answer": "NIE does not conduct its own entrance exam. Students need to prepare for KCET or COMEDK exams. The college may provide guidance but does not offer coaching."
+       },
+       {
+         "question": "exam preparation",
+         "answer": "NIE does not conduct its own entrance exam. Students need to prepare for KCET or COMEDK exams. The college may provide guidance but does not offer coaching."
+               }
+      ]
     },
     {
-        "question": "hi",
-        "answer": "Hello! How can I assist you today?"
+      "category": "Transport and Connectivity",
+      "questions": [
+        {
+          "question": "How can I reach NIE?",
+          "answer": "NIE is located at Manandavadi Road, Mysuru. You can reach by bus, auto-rickshaw, or private vehicle. The college is well-connected to different parts of Mysuru city."
+        },
+        {
+          "question": "transport",
+          "answer": "NIE is located at Manandavadi Road, Mysuru. You can reach by bus, auto-rickshaw, or private vehicle. The college is well-connected to different parts of Mysuru city."
+        },
+        {
+          "question": "how to reach",
+          "answer": "NIE is located at Manandavadi Road, Mysuru. You can reach by bus, auto-rickshaw, or private vehicle. The college is well-connected to different parts of Mysuru city."
+        },
+        {
+          "question": "Are there bus services to NIE?",
+          "answer": "Yes, there are regular bus services from various parts of Mysuru to NIE. KSRTC and city buses ply on routes connecting to the college."
+        },
+        {
+          "question": "bus services",
+          "answer": "Yes, there are regular bus services from various parts of Mysuru to NIE. KSRTC and city buses ply on routes connecting to the college."
+        },
+        {
+          "question": "ksrtc buses",
+          "answer": "Yes, there are regular bus services from various parts of Mysuru to NIE. KSRTC and city buses ply on routes connecting to the college."
+        },
+        {
+          "question": "What are the bus timings?",
+          "answer": "Bus timings vary by route. Generally, buses start early morning (6 AM) and run until late evening (10 PM). Students should check specific route timings."
+        },
+        {
+          "question": "bus timings",
+          "answer": "Bus timings vary by route. Generally, buses start early morning (6 AM) and run until late evening (10 PM). Students should check specific route timings."
+        },
+        {
+          "question": "bus schedule",
+          "answer": "Bus timings vary by route. Generally, buses start early morning (6 AM) and run until late evening (10 PM). Students should check specific route timings."
+        },
+        {
+          "question": "What are the bus stops near NIE?",
+          "answer": "There are bus stops near NIE on Manandavadi Road. Students can get down at the NIE bus stop or nearby stops and walk to the college."
+        },
+        {
+          "question": "bus stops",
+          "answer": "There are bus stops near NIE on Manandavadi Road. Students can get down at the NIE bus stop or nearby stops and walk to the college."
+        },
+        {
+          "question": "Is auto-rickshaw available?",
+          "answer": "Yes, auto-rickshaws are readily available near NIE. They provide convenient transportation to and from the college and nearby areas."
+        },
+        {
+          "question": "auto rickshaw",
+          "answer": "Yes, auto-rickshaws are readily available near NIE. They provide convenient transportation to and from the college and nearby areas."
+        },
+        {
+          "question": "auto",
+          "answer": "Yes, auto-rickshaws are readily available near NIE. They provide convenient transportation to and from the college and nearby areas."
+        },
+        {
+          "question": "Is there parking available at NIE?",
+          "answer": "Yes, NIE has parking facilities for students, staff, and visitors. Separate parking areas are available for two-wheelers and four-wheelers."
+        },
+        {
+          "question": "parking",
+          "answer": "Yes, NIE has parking facilities for students, staff, and visitors. Separate parking areas are available for two-wheelers and four-wheelers."
+        },
+        {
+          "question": "parking facilities",
+          "answer": "Yes, NIE has parking facilities for students, staff, and visitors. Separate parking areas are available for two-wheelers and four-wheelers."
+        },
+        {
+          "question": "How far is NIE from Mysuru railway station?",
+          "answer": "NIE is approximately 3-4 km from Mysuru railway station. It takes about 15-20 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "distance from railway station",
+          "answer": "NIE is approximately 3-4 km from Mysuru railway station. It takes about 15-20 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "railway station",
+          "answer": "NIE is approximately 3-4 km from Mysuru railway station. It takes about 15-20 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "How far is NIE from Mysuru bus stand?",
+          "answer": "NIE is approximately 2-3 km from Mysuru bus stand. It takes about 10-15 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "distance from bus stand",
+          "answer": "NIE is approximately 2-3 km from Mysuru bus stand. It takes about 10-15 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "bus stand",
+          "answer": "NIE is approximately 2-3 km from Mysuru bus stand. It takes about 10-15 minutes by auto-rickshaw or bus to reach the college."
+        },
+        {
+          "question": "Are there any shared transport options?",
+          "answer": "Students often organize shared auto-rickshaws or carpooling for daily commute to NIE, especially from nearby residential areas."
+        },
+        {
+          "question": "shared transport",
+          "answer": "Students often organize shared auto-rickshaws or carpooling for daily commute to NIE, especially from nearby residential areas."
+        },
+        {
+          "question": "carpooling",
+          "answer": "Students often organize shared auto-rickshaws or carpooling for daily commute to NIE, especially from nearby residential areas."
+        },
+        {
+          "question": "What is the best time to travel to NIE?",
+          "answer": "Morning hours (7-9 AM) and evening hours (5-7 PM) are peak times. It's advisable to plan travel accordingly to avoid traffic congestion."
+        },
+        {
+          "question": "best travel time",
+          "answer": "Morning hours (7-9 AM) and evening hours (5-7 PM) are peak times. It's advisable to plan travel accordingly to avoid traffic congestion."
+        },
+        {
+          "question": "peak hours",
+          "answer": "Morning hours (7-9 AM) and evening hours (5-7 PM) are peak times. It's advisable to plan travel accordingly to avoid traffic congestion."
+        }
+      ]
     },
     {
-        "question": "hello",
-        "answer": "Hello! How can I assist you today?"
+      "category": "Clubs and Fests",
+      "questions": [
+        {
+          "question": "Are there clubs at NIE?",
+          "answer": "Yes, NIE has various clubs including IEEE, IETE, CSI, music and dance clubs, robotics club, coding club, and cultural clubs for students to participate in extracurricular activities."
+        },
+        {
+          "question": "clubs",
+          "answer": "Yes, NIE has various clubs including IEEE, IETE, CSI, music and dance clubs, robotics club, coding club, and cultural clubs for students to participate in extracurricular activities."
+        },
+        {
+          "question": "student clubs",
+          "answer": "Yes, NIE has various clubs including IEEE, IETE, CSI, music and dance clubs, robotics club, coding club, and cultural clubs for students to participate in extracurricular activities."
+        },
+        {
+          "question": "What is IEEE at NIE?",
+          "answer": "IEEE (Institute of Electrical and Electronics Engineers) is a professional technical club at NIE that organizes technical workshops, seminars, and competitions for students."
+        },
+        {
+          "question": "ieee",
+          "answer": "IEEE (Institute of Electrical and Electronics Engineers) is a professional technical club at NIE that organizes technical workshops, seminars, and competitions for students."
+        },
+        {
+          "question": "What is IETE at NIE?",
+          "answer": "IETE (Institution of Electronics and Telecommunication Engineers) is a technical club at NIE that focuses on electronics and communication engineering activities and events."
+        },
+        {
+          "question": "iete",
+          "answer": "IETE (Institution of Electronics and Telecommunication Engineers) is a technical club at NIE that focuses on electronics and communication engineering activities and events."
+        },
+        {
+          "question": "What is CSI at NIE?",
+          "answer": "CSI (Computer Society of India) is a technical club at NIE that organizes computer science related events, coding competitions, and technical workshops."
+        },
+        {
+          "question": "csi",
+          "answer": "CSI (Computer Society of India) is a technical club at NIE that organizes computer science related events, coding competitions, and technical workshops."
+        },
+        {
+          "question": "coding club",
+          "answer": "CSI (Computer Society of India) is a technical club at NIE that organizes computer science related events, coding competitions, and technical workshops."
+        },
+        {
+          "question": "Are there cultural clubs at NIE?",
+          "answer": "Yes, NIE has cultural clubs including music club, dance club, drama club, and literary club where students can showcase their artistic talents."
+        },
+        {
+          "question": "cultural clubs",
+          "answer": "Yes, NIE has cultural clubs including music club, dance club, drama club, and literary club where students can showcase their artistic talents."
+        },
+        {
+          "question": "music club",
+          "answer": "Yes, NIE has cultural clubs including music club, dance club, drama club, and literary club where students can showcase their artistic talents."
+        },
+        {
+          "question": "dance club",
+          "answer": "Yes, NIE has cultural clubs including music club, dance club, drama club, and literary club where students can showcase their artistic talents."
+        },
+        {
+          "question": "What fests are organized at NIE?",
+          "answer": "NIE organizes various fests including TECHNIEKS (technical fest), cultural fest, sports fest, and department-specific events throughout the academic year."
+        },
+        {
+          "question": "fest",
+          "answer": "NIE organizes various fests including TECHNIEKS (technical fest), cultural fest, sports fest, and department-specific events throughout the academic year."
+        },
+        {
+          "question": "college fests",
+          "answer": "NIE organizes various fests including TECHNIEKS (technical fest), cultural fest, sports fest, and department-specific events throughout the academic year."
+        },
+        {
+          "question": "What is TECHNIEKS?",
+          "answer": "TECHNIEKS is the annual technical fest of NIE that features technical competitions, workshops, seminars, project exhibitions, and coding events."
+        },
+        {
+          "question": "technieks",
+          "answer": "TECHNIEKS is the annual technical fest of NIE that features technical competitions, workshops, seminars, project exhibitions, and coding events."
+        },
+        {
+          "question": "technical fest",
+          "answer": "TECHNIEKS is the annual technical fest of NIE that features technical competitions, workshops, seminars, project exhibitions, and coding events."
+        },
+        {
+          "question": "When is TECHNIEKS held?",
+          "answer": "TECHNIEKS is typically held in March-April every year. The exact dates are announced on the college website and notice boards."
+        },
+        {
+          "question": "technieks dates",
+          "answer": "TECHNIEKS is typically held in March-April every year. The exact dates are announced on the college website and notice boards."
+        },
+        {
+          "question": "What events are held during TECHNIEKS?",
+          "answer": "TECHNIEKS includes coding competitions, hackathons, technical quizzes, project presentations, robotics competitions, and technical workshops."
+        },
+        {
+          "question": "technieks events",
+          "answer": "TECHNIEKS includes coding competitions, hackathons, technical quizzes, project presentations, robotics competitions, and technical workshops."
+        },
+        {
+          "question": "Are there cultural events at NIE?",
+          "answer": "Yes, NIE organizes cultural events including music competitions, dance performances, drama, literary events, and cultural festivals throughout the year."
+        },
+        {
+          "question": "cultural events",
+          "answer": "Yes, NIE organizes cultural events including music competitions, dance performances, drama, literary events, and cultural festivals throughout the year."
+        },
+        {
+          "question": "Are there sports events at NIE?",
+          "answer": "Yes, NIE organizes sports events and competitions including cricket, football, basketball, volleyball, and indoor games for students."
+        },
+        {
+          "question": "sports events",
+          "answer": "Yes, NIE organizes sports events and competitions including cricket, football, basketball, volleyball, and indoor games for students."
+        },
+        {
+          "question": "sports fest",
+          "answer": "Yes, NIE organizes sports events and competitions including cricket, football, basketball, volleyball, and indoor games for students."
+        },
+        {
+          "question": "Can students participate in inter-college events?",
+          "answer": "Yes, NIE students actively participate in inter-college technical and cultural events, competitions, and fests organized by other colleges and universities."
+        },
+        {
+          "question": "inter college events",
+          "answer": "Yes, NIE students actively participate in inter-college technical and cultural events, competitions, and fests organized by other colleges and universities."
+        },
+        {
+          "question": "Are there robotics competitions?",
+          "answer": "Yes, NIE organizes and participates in robotics competitions through its robotics club. Students can build and compete with their robotic projects."
+        },
+        {
+          "question": "robotics",
+          "answer": "Yes, NIE organizes and participates in robotics competitions through its robotics club. Students can build and compete with their robotic projects."
+        },
+        {
+          "question": "robotics club",
+          "answer": "Yes, NIE organizes and participates in robotics competitions through its robotics club. Students can build and compete with their robotic projects."
+        },
+        {
+          "question": "Are there coding competitions?",
+          "answer": "Yes, NIE regularly organizes coding competitions, hackathons, and programming contests through its technical clubs and during fests."
+        },
+        {
+          "question": "coding competitions",
+          "answer": "Yes, NIE regularly organizes coding competitions, hackathons, and programming contests through its technical clubs and during fests."
+        },
+        {
+          "question": "hackathon",
+          "answer": "Yes, NIE regularly organizes coding competitions, hackathons, and programming contests through its technical clubs and during fests."
+        }
+      ]
     },
     {
-        "question": "hey",
-        "answer": "Hello! How can I assist you today?"
+      "category": "Campus Facilities",
+      "questions": [
+        {
+          "question": "What are the campus facilities at NIE?",
+          "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
+        },
+        {
+          "question": "campus",
+          "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
+        },
+        {
+          "question": "campus facilities",
+          "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
+        },
+        {
+          "question": "What facilities does the library offer?",
+          "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
+        },
+        {
+          "question": "library",
+          "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
+        },
+        {
+          "question": "library facilities",
+          "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
+        },
+        {
+          "question": "Is there a canteen on campus?",
+          "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
+        },
+        {
+          "question": "canteen",
+          "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
+        },
+        {
+          "question": "canteen food",
+          "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
+        },
+        {
+          "question": "How is the faculty at NIE?",
+          "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers with strong academic backgrounds and industry experience."
+        },
+        {
+          "question": "faculty",
+          "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers with strong academic backgrounds and industry experience."
+        },
+        {
+          "question": "teachers",
+          "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers with strong academic backgrounds and industry experience."
+        },
+        {
+          "question": "Are there sports facilities at NIE?",
+          "answer": "Yes, NIE has a sports complex with facilities for cricket, football, basketball, volleyball, badminton, and indoor games like table tennis and chess."
+        },
+        {
+          "question": "sports facilities",
+          "answer": "Yes, NIE has a sports complex with facilities for cricket, football, basketball, volleyball, badminton, and indoor games like table tennis and chess."
+        },
+        {
+          "question": "sports complex",
+          "answer": "Yes, NIE has a sports complex with facilities for cricket, football, basketball, volleyball, badminton, and indoor games like table tennis and chess."
+        },
+        {
+          "question": "Is WiFi available on campus?",
+          "answer": "Yes, high-speed WiFi is available throughout the NIE campus for students and faculty to access internet for academic and research purposes."
+        },
+        {
+          "question": "wifi",
+          "answer": "Yes, high-speed WiFi is available throughout the NIE campus for students and faculty to access internet for academic and research purposes."
+        },
+        {
+          "question": "internet",
+          "answer": "Yes, high-speed WiFi is available throughout the NIE campus for students and faculty to access internet for academic and research purposes."
+        },
+        {
+          "question": "Are there computer labs at NIE?",
+          "answer": "Yes, NIE has well-equipped computer laboratories with modern computers, software, and internet connectivity for practical sessions and projects."
+        },
+        {
+          "question": "computer labs",
+          "answer": "Yes, NIE has well-equipped computer laboratories with modern computers, software, and internet connectivity for practical sessions and projects."
+        },
+        {
+          "question": "labs",
+          "answer": "Yes, NIE has well-equipped computer laboratories with modern computers, software, and internet connectivity for practical sessions and projects."
+        },
+        {
+          "question": "Are there auditoriums at NIE?",
+          "answer": "Yes, NIE has auditoriums and seminar halls for conducting events, seminars, workshops, and cultural programs."
+        },
+        {
+          "question": "auditorium",
+          "answer": "Yes, NIE has auditoriums and seminar halls for conducting events, seminars, workshops, and cultural programs."
+        },
+        {
+          "question": "seminar halls",
+          "answer": "Yes, NIE has auditoriums and seminar halls for conducting events, seminars, workshops, and cultural programs."
+        },
+        {
+          "question": "Are there medical facilities on campus?",
+          "answer": "NIE has basic medical facilities and first-aid services. For major medical issues, students are referred to nearby hospitals in Mysuru."
+        },
+        {
+          "question": "medical facilities",
+          "answer": "NIE has basic medical facilities and first-aid services. For major medical issues, students are referred to nearby hospitals in Mysuru."
+        },
+        {
+          "question": "healthcare",
+          "answer": "NIE has basic medical facilities and first-aid services. For major medical issues, students are referred to nearby hospitals in Mysuru."
+        },
+        {
+          "question": "Are there ATMs on campus?",
+          "answer": "Yes, there are ATM facilities available on the NIE campus for students and staff to withdraw cash and perform banking transactions."
+        },
+        {
+          "question": "atm",
+          "answer": "Yes, there are ATM facilities available on the NIE campus for students and staff to withdraw cash and perform banking transactions."
+        },
+        {
+          "question": "banking facilities",
+          "answer": "Yes, there are ATM facilities available on the NIE campus for students and staff to withdraw cash and perform banking transactions."
+        },
+        {
+          "question": "Are there photocopy facilities?",
+          "answer": "Yes, NIE has photocopy and printing facilities available on campus for students and faculty at nominal charges."
+        },
+        {
+          "question": "photocopy",
+          "answer": "Yes, NIE has photocopy and printing facilities available on campus for students and faculty at nominal charges."
+        },
+        {
+          "question": "printing",
+          "answer": "Yes, NIE has photocopy and printing facilities available on campus for students and faculty at nominal charges."
+        },
+        {
+          "question": "Are there projectors in classrooms?",
+          "answer": "Yes, NIE classrooms are equipped with projectors, audio-visual equipment, and modern teaching aids for effective learning."
+        },
+        {
+          "question": "projectors",
+          "answer": "Yes, NIE classrooms are equipped with projectors, audio-visual equipment, and modern teaching aids for effective learning."
+        },
+        {
+          "question": "classroom facilities",
+          "answer": "Yes, NIE classrooms are equipped with projectors, audio-visual equipment, and modern teaching aids for effective learning."
+        }
+      ]
     },
     {
-        "question": "good morning",
-        "answer": "Good morning! How can I help you today?"
+      "category": "Demographics and Student Life",
+      "questions": [
+        {
+          "question": "What is the boys-girls ratio at NIE?",
+          "answer": "The boys to girls ratio at NIE is typically between 3:2 and 2:1, varying slightly by branch and year."
+        },
+        {
+          "question": "boys girls ratio",
+          "answer": "The boys to girls ratio at NIE is typically between 3:2 and 2:1, varying slightly by branch and year."
+        },
+        {
+          "question": "gender ratio",
+          "answer": "The boys to girls ratio at NIE is typically between 3:2 and 2:1, varying slightly by branch and year."
+        },
+        {
+          "question": "How many students are there at NIE?",
+          "answer": "NIE has approximately 2000+ students across all branches and years, with around 500-600 students admitted each year."
+        },
+        {
+          "question": "total students",
+          "answer": "NIE has approximately 2000+ students across all branches and years, with around 500-600 students admitted each year."
+        },
+        {
+          "question": "student strength",
+          "answer": "NIE has approximately 2000+ students across all branches and years, with around 500-600 students admitted each year."
+        },
+        {
+          "question": "What is the student-faculty ratio?",
+          "answer": "NIE maintains a good student-faculty ratio of approximately 15:1, ensuring personalized attention and quality education."
+        },
+        {
+          "question": "student faculty ratio",
+          "answer": "NIE maintains a good student-faculty ratio of approximately 15:1, ensuring personalized attention and quality education."
+        },
+        {
+          "question": "faculty ratio",
+          "answer": "NIE maintains a good student-faculty ratio of approximately 15:1, ensuring personalized attention and quality education."
+        },
+        {
+          "question": "Are there international students at NIE?",
+          "answer": "NIE has a small number of international students from various countries. The college welcomes diversity and provides support for international students."
+        },
+        {
+          "question": "international students",
+          "answer": "NIE has a small number of international students from various countries. The college welcomes diversity and provides support for international students."
+        },
+        {
+          "question": "foreign students",
+          "answer": "NIE has a small number of international students from various countries. The college welcomes diversity and provides support for international students."
+        },
+        {
+          "question": "What is the average age of students?",
+          "answer": "The average age of students at NIE is 18-22 years, with most students joining after completing their 12th standard education."
+        },
+        {
+          "question": "average age",
+          "answer": "The average age of students at NIE is 18-22 years, with most students joining after completing their 12th standard education."
+        },
+        {
+          "question": "student age",
+          "answer": "The average age of students at NIE is 18-22 years, with most students joining after completing their 12th standard education."
+        },
+        {
+          "question": "Are there students from different states?",
+          "answer": "Yes, NIE has students from various states across India, though the majority are from Karnataka. The college promotes cultural diversity."
+        },
+        {
+          "question": "students from different states",
+          "answer": "Yes, NIE has students from various states across India, though the majority are from Karnataka. The college promotes cultural diversity."
+        },
+        {
+          "question": "diversity",
+          "answer": "Yes, NIE has students from various states across India, though the majority are from Karnataka. The college promotes cultural diversity."
+        },
+        {
+          "question": "What is the attendance policy at NIE?",
+          "answer": "NIE has a strict attendance policy requiring 75% attendance in each subject. Students with less attendance may face restrictions in examinations."
+        },
+        {
+          "question": "attendance",
+          "answer": "NIE has a strict attendance policy requiring 75% attendance in each subject. Students with less attendance may face restrictions in examinations."
+        },
+        {
+          "question": "attendance policy",
+          "answer": "NIE has a strict attendance policy requiring 75% attendance in each subject. Students with less attendance may face restrictions in examinations."
+        },
+        {
+          "question": "What is the dress code at NIE?",
+          "answer": "NIE has a formal dress code for students. Boys are expected to wear formal shirts and pants, while girls can wear salwar kameez or formal attire."
+        },
+        {
+          "question": "dress code",
+          "answer": "NIE has a formal dress code for students. Boys are expected to wear formal shirts and pants, while girls can wear salwar kameez or formal attire."
+        },
+        {
+          "question": "uniform",
+          "answer": "NIE has a formal dress code for students. Boys are expected to wear formal shirts and pants, while girls can wear salwar kameez or formal attire."
+        },
+        {
+          "question": "What is the academic calendar like?",
+          "answer": "NIE follows a semester system with two semesters per year. The academic year typically starts in August and includes regular classes, examinations, and breaks."
+        },
+        {
+          "question": "academic calendar",
+          "answer": "NIE follows a semester system with two semesters per year. The academic year typically starts in August and includes regular classes, examinations, and breaks."
+        },
+        {
+          "question": "semester system",
+          "answer": "NIE follows a semester system with two semesters per year. The academic year typically starts in August and includes regular classes, examinations, and breaks."
+        },
+        {
+          "question": "Are there any cultural activities?",
+          "answer": "Yes, NIE organizes various cultural activities including music competitions, dance performances, drama, literary events, and cultural festivals throughout the year."
+        },
+        {
+          "question": "cultural activities",
+          "answer": "Yes, NIE organizes various cultural activities including music competitions, dance performances, drama, literary events, and cultural festivals throughout the year."
+        },
+        {
+          "question": "What is the student life like at NIE?",
+          "answer": "Student life at NIE is vibrant with academic activities, technical clubs, cultural events, sports, fests, and opportunities for personal and professional growth."
+        },
+        {
+          "question": "student life",
+          "answer": "Student life at NIE is vibrant with academic activities, technical clubs, cultural events, sports, fests, and opportunities for personal and professional growth."
+        },
+        {
+          "question": "college life",
+          "answer": "Student life at NIE is vibrant with academic activities, technical clubs, cultural events, sports, fests, and opportunities for personal and professional growth."
+        }
+      ]
     },
     {
-        "question": "good afternoon",
-        "answer": "Good afternoon! How can I help you today?"
+      "category": "Greetings and General Chat",
+      "questions": [
+        {
+          "question": "hi",
+          "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "hello",
+          "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "hey",
+          "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "good morning",
+          "answer": "Good morning! How can I help you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "good afternoon",
+          "answer": "Good afternoon! How can I help you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "good evening",
+          "answer": "Good evening! How can I help you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "greetings",
+          "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "namaste",
+          "answer": "Namaste! How can I assist you today with information about NIE Mysuru?"
+        },
+        {
+          "question": "how are you",
+          "answer": "I'm just a bot, but I'm here to help you with any information about NIE Mysuru!"
+        },
+        {
+          "question": "what's up",
+          "answer": "I'm here to help you with any information about NIE Mysuru! What would you like to know?"
+        },
+        {
+          "question": "bye",
+          "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
+        },
+        {
+          "question": "exit",
+          "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
+        },
+        {
+          "question": "goodbye",
+          "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
+        },
+        {
+          "question": "thank you",
+          "answer": "You're welcome! If you have more questions about NIE Mysuru, feel free to ask anytime. 😊"
+        },
+        {
+          "question": "thanks",
+          "answer": "You're welcome! If you have more questions about NIE Mysuru, feel free to ask anytime. 😊"
+        }
+      ]
     },
     {
-        "question": "good evening",
-        "answer": "Good evening! How can I help you today?"
+      "category": "Fees and Quotas",
+      "questions": [
+        {
+          "question": "What is the KEA aided fee (E022) for Karnataka students?",
+          "answer": "The KEA aided (E022) fee for Karnataka (GM, 2A, 2B, 3A, 3B) students is ₹25,005 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA aided fee (E022) for Non-Karnataka students?",
+          "answer": "The KEA aided (E022) fee for Non-Karnataka students is ₹25,005 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA aided fee (E022) for SNQ?",
+          "answer": "The KEA aided (E022) fee for SNQ is ₹25,005 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA aided fee (E022) for SC/ST students?",
+          "answer": "The KEA aided (E022) fee for SC/ST students (Income ≤ ₹2.5L) is ₹25,005. For Income ≤ ₹10L, it is ₹46,200. (2024-25)"
+        },
+        {
+          "question": "What is the KEA aided fee (E022) for Cat-1 students?",
+          "answer": "The KEA aided (E022) fee for Cat-1 students (Income ≤ ₹2.5L) is ₹45,011. (2024-25)"
+        },
+        {
+          "question": "What is the KEA unaided fee (E056/E178) for Karnataka students?",
+          "answer": "The KEA unaided (E056/E178) fee for Karnataka (GM, 2A, 2B, 3A, 3B) students is ₹10,250 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA unaided fee (E056/E178) for Non-Karnataka students?",
+          "answer": "The KEA unaided (E056/E178) fee for Non-Karnataka students is ₹11,750 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA unaided fee (E056/E178) for SNQ?",
+          "answer": "The KEA unaided (E056/E178) fee for SNQ is ₹15,590 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the KEA unaided fee (E056/E178) for SC/ST students?",
+          "answer": "The KEA unaided (E056/E178) fee for SC/ST students (Income ≤ ₹2.5L) is ₹25,090. For Income ≤ ₹10L, it is ₹46,200. (2024-25)"
+        },
+        {
+          "question": "What is the KEA unaided fee (E056/E178) for Cat-1 students?",
+          "answer": "The KEA unaided (E056/E178) fee for Cat-1 students (Income ≤ ₹2.5L) is ₹40,671. (2024-25)"
+        },
+        {
+          "question": "What is the GOI quota fee for aided (Non-Karnataka)?",
+          "answer": "The GOI quota fee for aided (Non-Karnataka) is ₹67,871 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the GOI quota fee for unaided (Non-Karnataka)?",
+          "answer": "The GOI quota fee for unaided (Non-Karnataka) is ₹1,19,245 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the AICTE PMSSS fee for aided (Non-Karnataka)?",
+          "answer": "The AICTE PMSSS fee for aided (Non-Karnataka) is ₹0 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the AICTE PMSSS fee for unaided (Non-Karnataka)?",
+          "answer": "The AICTE PMSSS fee for unaided (Non-Karnataka) is ₹0 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the management quota fee for Karnataka students?",
+          "answer": "The management quota fee for Karnataka students is ₹3,03,087 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the management quota fee for Non-Karnataka students?",
+          "answer": "The management quota fee for Non-Karnataka students is ₹3,04,587 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the COMEDK fee (E142/E085) for Karnataka students?",
+          "answer": "The COMEDK (E142/E085) fee for Karnataka students is ₹21,610 for the first year (2024-25)."
+        },
+        {
+          "question": "What is the COMEDK fee (E142/E085) for Non-Karnataka students?",
+          "answer": "The COMEDK (E142/E085) fee for Non-Karnataka students is ₹23,110 for the first year (2024-25)."
+        },
+        {
+          "question": "What documents are required for admission under GM category?",
+          "answer": "For GM category admission, you need:\n- CET Allotment Letter\n- KEA/Comed K Fee Paid Receipt\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under SC/ST/Cat-1 category?",
+          "answer": "For SC/ST/Cat-1 category admission, you need:\n- CET Allotment Letter\n- KEA Fee Paid Receipt\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Caste Certificate\n- Income Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under SNQ quota?",
+          "answer": "For SNQ quota admission, you need:\n- CET Allotment Letter\n- KEA Fee Paid Receipt\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Income Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under Management quota?",
+          "answer": "For Management quota admission, you need:\n- Management Allotment Letter\n- MQ Fee Paid Receipt\n- CET/COMEDK/JEE Main Rank Card\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under COMEDK quota?",
+          "answer": "For COMEDK quota admission, you need:\n- COMEDK Allotment Letter\n- Comed K Fee Paid Receipt\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under GOI quota?",
+          "answer": "For GOI quota admission, you need:\n- Allotment Letter\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "What documents are required for admission under AICTE PMSSS quota?",
+          "answer": "For AICTE PMSSS quota admission, you need:\n- Allotment Letter\n- SSLC Marks Card\n- 10+2/PUC Marks Card\n- 1 to 12th Study Certificate\n- Migration Certificate (Non-Karnataka)\n- Transfer Certificate\n- Photo Copy – Aadhaar Card\n(2 photocopies of each)"
+        },
+        {
+          "question": "Is mess included in hostel fees at NIE?",
+          "answer": "Yes, mess charges are included in the hostel fees at NIE."
+        },
+        {
+          "question": "What facilities are available in NIE hostels?",
+          "answer": "NIE hostels offer facilities such as gym, canteen, and included mess."
+        },
+        {
+          "question": "What are the library timings at NIE?",
+          "answer": "The NIE library is open from 8:00 am to 8:00 pm."
+        },
+        {
+          "question": "What is the accreditation status of NIE?",
+          "answer": "NIE is accredited by NAAC with an 'A' grade (CGPA 3.1/4, current cycle). Most major UG engineering programs (CSE, CI (AI & ML), ECE, EEE, Mechanical, Civil, ISE, etc.) are NBA accredited."
+        },
+        {
+          "question": "List of active clubs at NIE?",
+          "answer": "Active clubs at NIE include:\n- IEEE\n- IUCEEE\n- OWASP\n- Robotics\n- ONYX\n- Anveshan\n- Byte\n- Kannada Club."
+        },
+        {
+          "question": "What is the ALPHA Lab at NIE?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "What is the ALPHA Innovation and Tinkerers' Lab at NIE?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Tell me about the ALPHA Innovation Lab at NIE",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "ALPHA Tinkerers' Lab NIE details",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "ALPHA Lab innovation center NIE",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        }
+      ]
     },
     {
-        "question": "greetings",
-        "answer": "Hello! How can I assist you today?"
+      "category": "Seat Matrix",
+      "questions": [
+        {
+          "question": "How many seats are there in CSE at NIE?",
+          "answer": "CSE (Computer Science and Engineering) has 480 total seats at NIE:\n- Unaided: 216 seats\n- Management Quota: 120 seats\n- COMEDK: 144 seats\n- Aided: 0 seats"
+        },
+        {
+          "question": "How many seats are there in CI (AI & ML) at NIE?",
+          "answer": "CI (Computer Science and Engineering - AI & ML) has 120 total seats at NIE:\n- Unaided: 54 seats\n- Management Quota: 30 seats\n- COMEDK: 36 seats\n- Aided: 0 seats"
+        },
+        {
+          "question": "How many seats are there in ECE at NIE?",
+          "answer": "ECE (Electronics and Communication Engineering) has 180 total seats at NIE:\n- Aided: 57 seats\n- Unaided: 54 seats\n- Management Quota: 33 seats\n- COMEDK: 36 seats"
+        },
+        {
+          "question": "How many seats are there in EEE at NIE?",
+          "answer": "EEE (Electrical and Electronics Engineering) has 120 total seats at NIE:\n- Unaided: 54 seats\n- Management Quota: 30 seats\n- COMEDK: 36 seats\n- Aided: 0 seats"
+        },
+        {
+          "question": "How many seats are there in Mechanical Engineering at NIE?",
+          "answer": "Mechanical Engineering has 120 total seats at NIE:\n- Aided: 57 seats\n- Unaided: 27 seats\n- Management Quota: 18 seats\n- COMEDK: 18 seats"
+        },
+        {
+          "question": "How many seats are there in Civil Engineering at NIE?",
+          "answer": "Civil Engineering has 120 total seats at NIE:\n- Aided: 57 seats\n- Unaided: 27 seats\n- Management Quota: 18 seats\n- COMEDK: 18 seats"
+        },
+        {
+          "question": "What is the total seat capacity at NIE?",
+          "answer": "NIE has a total of 1,140 seats across all branches:\n- Aided: 171 seats\n- Unaided: 432 seats\n- Management Quota: 249 seats\n- COMEDK: 288 seats"
+        },
+        {
+          "question": "How many management quota seats are there at NIE?",
+          "answer": "NIE has 249 management quota seats across all branches:\n- CSE: 120 seats\n- ECE: 33 seats\n- CI (AI & ML): 30 seats\n- EEE: 30 seats\n- Mechanical: 18 seats\n- Civil: 18 seats"
+        },
+        {
+          "question": "How many COMEDK seats are there at NIE?",
+          "answer": "NIE has 288 COMEDK seats across all branches:\n- CSE: 144 seats\n- ECE: 36 seats\n- CI (AI & ML): 36 seats\n- EEE: 36 seats\n- Mechanical: 18 seats\n- Civil: 18 seats"
+        },
+        {
+          "question": "How many aided seats are there at NIE?",
+          "answer": "NIE has 171 aided seats across all branches:\n- ECE: 57 seats\n- Mechanical: 57 seats\n- Civil: 57 seats\n- CSE, CI, EEE: 0 aided seats"
+        },
+        {
+          "question": "How many unaided seats are there at NIE?",
+          "answer": "NIE has 432 unaided seats across all branches:\n- CSE: 216 seats\n- ECE: 54 seats\n- CI (AI & ML): 54 seats\n- EEE: 54 seats\n- Mechanical: 27 seats\n- Civil: 27 seats"
+        }
+      ]
     },
     {
-        "question": "namaste",
-        "answer": "Namaste! How can I assist you today?"
+      "category": "Campus Facilities",
+      "sub_category": "ALPHA Lab (Artificial Learning Platform for Higher Aspirations)",
+      "questions": [
+        {
+          "question": "What is the ALPHA Lab at NIE?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "What is the ALPHA Innovation and Tinkerers' Lab at NIE?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Tell me about the ALPHA Innovation Lab at NIE",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "ALPHA Tinkerers' Lab NIE details",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "ALPHA Lab innovation center NIE",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Does NIE have a dedicated AI lab?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Who can use the ALPHA Lab?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "alpha lab facilities",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Does ALPHA lab offer internships?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "projects in ALPHA lab",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "What are the focus areas of ALPHA Lab?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Can research scholars access ALPHA Lab?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Does ALPHA Lab have industry partners?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "Is ALPHA Lab open for startups and incubation?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        },
+        {
+          "question": "What kind of mentorship is available at ALPHA Lab?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for students and faculty. UG, PG, and research scholars can work here on hands-on projects, startups, and industry collaborations."
+        }
+      ]
     },
     {
-        "question": "how are you",
-        "answer": "I'm just a bot, but I'm here to help you!"
+      "category": "Scholarships & Financial Aid",
+      "questions": [
+        { "question": "What scholarships are available at NIE?", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "fee reimbursement at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "SC/ST scholarship at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "girls scholarship at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "AICTE Pragati scholarship", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "minority scholarships at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "How to apply for scholarships at NIE?", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "scholarship last date at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "loan schemes for NIE students", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "where to submit scholarship forms at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "fee concession at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." },
+        { "question": "scholarship eligibility at NIE", "answer": "NIE students are eligible for a wide range of scholarships and financial aid every year, including state, central, and private schemes. Examples include AICTE Pragati, SSP Post Matric, Reliance Foundation, FFE, SKF Girls Scholarship, Vidyasiri, Raitha Vidyanidhi, Women in Engineering, and more. Eligibility, deadlines, and required documents vary by scheme. Detailed circulars, forms, and application links are published on the official Scholarship Section of the NIE website. Please check there regularly for updates." }
+      ]
     },
     {
-        "question": "what's up",
-        "answer": "I'm here to help you with any information about NIE Mysuru!"
-    },
-    {
-      "question": "bye",
-      "answer": "Thank you for chatting! If you have more questions, feel free to ask anytime. Goodbye!\nFor more info, feel free to check out the official website from the top-right corner. 😊"
-    },
-    {
-      "question": "exit",
-      "answer": "Thank you for chatting! If you have more questions, feel free to ask anytime. Goodbye!\nFor more info, feel free to check out the official website from the top-right corner. 😊"
-    },
-    {
-      "question": "goodbye",
-      "answer": "Thank you for chatting! If you have more questions, feel free to ask anytime. Goodbye!\nFor more info, feel free to check out the official website from the top-right corner. 😊"
-    },
-    {
-      "question": "thank you",
-      "answer": "Thank you for chatting! If you have more questions, feel free to ask anytime. Goodbye!\nFor more info, feel free to check out the official website from the top-right corner. 😊"
-    },
-    {
-      "question": "thanks",
-      "answer": "Thank you for chatting! If you have more questions, feel free to ask anytime. Goodbye!\nFor more info, feel free to check out the official website from the top-right corner. 😊"
+      "category": "Anti-Ragging & Campus Safety",
+      "questions": [
+        { "question": "Is there ragging at NIE?", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "Is NIE campus safe?", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "Is the hostel safe for girls at NIE?", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "anti-ragging helpline at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "Can girls study safely at NIE?", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "hostel rules about ragging at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "How to report ragging at NIE?", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "ragging complaint process at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "campus safety at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
+        { "question": "student mentoring at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." }
+      ]
     }
-]
+  ]
