@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+  command = ""
+
+# Optional: route all paths to index.html if you use client-side routing
+# [[redirects]]
+#   from = "/api/*"
+#   to = "/api/:splat"
+#   status = 200
+
