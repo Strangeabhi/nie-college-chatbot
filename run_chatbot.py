@@ -11,6 +11,7 @@ import traceback
 import random
 import time
 from datetime import datetime
+import os
 from typing import List, Dict, Tuple
 import logging
 
@@ -362,7 +363,8 @@ if __name__ == '__main__':
     print("🚀 Starting NIE Advanced Chatbot...")
     print("💬 Dynamic responses and external fallback")
     print("⚡ Fast performance with caching")
-    print("\nAccess the chatbot at: http://localhost:5000")
-    print("Health check at: http://localhost:5000/api/health")
+    port = int(os.getenv('PORT', 5000))
+    print(f"\nAccess the chatbot at: http://localhost:{port}")
+    print(f"Health check at: http://localhost:{port}/api/health")
     
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    app.run(debug=False, host='0.0.0.0', port=port)
