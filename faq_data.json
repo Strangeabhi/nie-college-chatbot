@@ -1,12 +1,12 @@
 [
-  {
+    {
     "category": "General Information",
     "questions": [
       {
         "question": "What is NIE?",
         "answer": "The National Institute of Engineering (NIE) is a premier engineering college located in Mysuru, Karnataka, India, established in 1946. It is one of the oldest and most prestigious engineering institutions in Karnataka."
-      },
-      {
+    },
+    {
         "question": "What does NIE stand for?",
         "answer": "NIE stands for The National Institute of Engineering, a renowned engineering college in Mysuru, Karnataka, India."
       },
@@ -29,28 +29,28 @@
       {
         "question": "address",
         "answer": "The National Institute of Engineering, Manandavadi Road, Mysuru – 570008, Karnataka, India."
-      },
-      {
+    },
+    {
         "question": "What is the official website of NIE?",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-      },
-      {
+    },
+    {
         "question": "college website",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-      },
-      {
+    },
+    {
         "question": "website",
         "answer": "The official website of The National Institute of Engineering, Mysuru is https://nie.ac.in"
-      },
-      {
+    },
+    {
         "question": "How can I contact NIE?",
         "answer": "You can contact NIE through their official email: nieprincipal@nie.ac.in or call at +91-821-2480475."
-      },
-      {
+    },
+    {
         "question": "contact",
         "answer": "You can contact NIE through their official email: nieprincipal@nie.ac.in or call at +91-821-2480475."
-      },
-      {
+    },
+    {
         "question": "contact number",
         "answer": "You can contact NIE at +91-821-2480475."
       },
@@ -304,16 +304,16 @@
    {
      "category": "Hostels and Accommodation",
      "questions": [
-       {
-         "question": "What are the hostel facilities at NIE?",
+    {
+        "question": "What are the hostel facilities at NIE?",
          "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
-       },
-       {
-         "question": "hostel",
+    },
+    {
+        "question": "hostel",
          "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
-       },
-       {
-         "question": "hostel facilities",
+    },
+    {
+        "question": "hostel facilities",
          "answer": "NIE hostels provide WiFi, mess facilities, laundry services, study rooms, common rooms, 24/7 security, and separate facilities for boys and girls. Both north and south campus hostels are available."
        },
        {
@@ -630,8 +630,8 @@
    {
      "category": "Admissions and Eligibility",
      "questions": [
-       {
-         "question": "How can I get admission to NIE?",
+    {
+        "question": "How can I get admission to NIE?",
          "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
        },
        {
@@ -645,9 +645,9 @@
        {
          "question": "What is KCET?",
          "answer": "KCET (Karnataka Common Entrance Test) is a state-level entrance exam for admission to engineering colleges in Karnataka. NIE accepts KCET scores for admission."
-       },
-       {
-         "question": "kcet",
+    },
+    {
+        "question": "kcet",
          "answer": "KCET (Karnataka Common Entrance Test) is a state-level entrance exam for admission to engineering colleges in Karnataka. NIE accepts KCET scores for admission."
        },
        {
@@ -657,9 +657,9 @@
        {
          "question": "What is COMEDK?",
          "answer": "COMEDK (Consortium of Medical, Engineering and Dental Colleges of Karnataka) is an entrance exam for admission to private engineering colleges in Karnataka. NIE accepts COMEDK scores."
-       },
-       {
-         "question": "comedk",
+    },
+    {
+        "question": "comedk",
          "answer": "COMEDK (Consortium of Medical, Engineering and Dental Colleges of Karnataka) is an entrance exam for admission to private engineering colleges in Karnataka. NIE accepts COMEDK scores."
        },
        {
@@ -912,12 +912,12 @@
     {
       "category": "Clubs and Fests",
       "questions": [
-        {
-          "question": "Are there clubs at NIE?",
+    {
+        "question": "Are there clubs at NIE?",
           "answer": "Yes, NIE has various clubs including IEEE, IETE, CSI, music and dance clubs, robotics club, coding club, and cultural clubs for students to participate in extracurricular activities."
-        },
-        {
-          "question": "clubs",
+    },
+    {
+        "question": "clubs",
           "answer": "Yes, NIE has various clubs including IEEE, IETE, CSI, music and dance clubs, robotics club, coding club, and cultural clubs for students to participate in extracurricular activities."
         },
         {
@@ -947,9 +947,9 @@
         {
           "question": "csi",
           "answer": "CSI (Computer Society of India) is a technical club at NIE that organizes computer science related events, coding competitions, and technical workshops."
-        },
-        {
-          "question": "coding club",
+    },
+    {
+        "question": "coding club",
           "answer": "CSI (Computer Society of India) is a technical club at NIE that organizes computer science related events, coding competitions, and technical workshops."
         },
         {
@@ -1065,48 +1065,48 @@
     {
       "category": "Campus Facilities",
       "questions": [
-        {
-          "question": "What are the campus facilities at NIE?",
+    {
+        "question": "What are the campus facilities at NIE?",
           "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
-        },
-        {
-          "question": "campus",
+    },
+    {
+        "question": "campus",
           "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
         },
         {
           "question": "campus facilities",
           "answer": "NIE campus includes modern classrooms, well-equipped laboratories, auditoriums, sports complex, library, canteen, hostels, WiFi connectivity, and parking facilities."
-        },
-        {
-          "question": "What facilities does the library offer?",
+    },
+    {
+        "question": "What facilities does the library offer?",
           "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
-        },
-        {
-          "question": "library",
+    },
+    {
+        "question": "library",
           "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
         },
         {
           "question": "library facilities",
           "answer": "NIE's library is well-equipped with technical books, journals, digital access, e-resources, study zones, and computer facilities for students and faculty."
-        },
-        {
-          "question": "Is there a canteen on campus?",
+    },
+    {
+        "question": "Is there a canteen on campus?",
           "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
-        },
-        {
-          "question": "canteen",
+    },
+    {
+        "question": "canteen",
           "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
         },
         {
           "question": "canteen food",
           "answer": "Yes, NIE has a canteen that provides hygienic food at affordable prices for students and staff. It serves breakfast, lunch, and snacks throughout the day."
-        },
-        {
-          "question": "How is the faculty at NIE?",
+    },
+    {
+        "question": "How is the faculty at NIE?",
           "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers with strong academic backgrounds and industry experience."
-        },
-        {
-          "question": "faculty",
+    },
+    {
+        "question": "faculty",
           "answer": "The faculty at NIE consists of experienced professors, assistant professors, and lecturers with strong academic backgrounds and industry experience."
         },
         {
@@ -1370,41 +1370,41 @@
         {
           "question": "greeting good evening",
           "answer": "Good evening! How can I help you today with information about NIE Mysuru?"
-        },
-        {
-          "question": "greetings",
+    },
+    {
+        "question": "greetings",
           "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
-        },
-        {
-          "question": "namaste",
+    },
+    {
+        "question": "namaste",
           "answer": "Namaste! How can I assist you today with information about NIE Mysuru?"
-        },
-        {
-          "question": "how are you",
+    },
+    {
+        "question": "how are you",
           "answer": "I'm just a bot, but I'm here to help you with any information about NIE Mysuru!"
-        },
-        {
-          "question": "what's up",
+    },
+    {
+        "question": "what's up",
           "answer": "I'm here to help you with any information about NIE Mysuru! What would you like to know?"
-        },
-        {
-          "question": "bye",
+    },
+    {
+      "question": "bye",
           "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
-        },
-        {
-          "question": "exit",
+    },
+    {
+      "question": "exit",
           "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
-        },
-        {
-          "question": "goodbye",
+    },
+    {
+      "question": "goodbye",
           "answer": "Thank you for chatting! If you have more questions about NIE Mysuru, feel free to ask anytime. Goodbye! 😊"
-        },
-        {
-          "question": "thank you",
+    },
+    {
+      "question": "thank you",
           "answer": "You're welcome! If you have more questions about NIE Mysuru, feel free to ask anytime. 😊"
-        },
-        {
-          "question": "thanks",
+    },
+    {
+      "question": "thanks",
           "answer": "You're welcome! If you have more questions about NIE Mysuru, feel free to ask anytime. 😊"
         }
       ]
@@ -1721,4 +1721,4 @@
         { "question": "Who made you?", "answer": "I'm a creation of Abhishek Patil, NIE 2027 passout. Ask me about courses, placements, or hostels!" }
       ]
     }
-  ]
+]
