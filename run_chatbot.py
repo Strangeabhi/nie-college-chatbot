@@ -17,7 +17,17 @@ import logging
 
 # Core imports
 from sentence_transformers import SentenceTransformer
-from sklearn.metrics.pairwise import cosine_similarity
+def cosine_similarity(a: np.ndarray, b: np.ndarray) -> np.ndarray:
+    """Cosine similarity using NumPy (avoids scikit-learn dependency).
+    a: shape (n_queries, dim)
+    b: shape (n_items, dim)
+    returns: shape (n_queries, n_items)
+    """
+    if a.ndim == 1:
+        a = a.reshape(1, -1)
+    a_norm = a / (np.linalg.norm(a, axis=1, keepdims=True) + 1e-12)
+    b_norm = b / (np.linalg.norm(b, axis=1, keepdims=True) + 1e-12)
+    return a_norm @ b_norm.T
 
 # Setup logging
 logging.basicConfig(level=logging.INFO)
