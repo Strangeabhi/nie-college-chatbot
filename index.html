@@ -386,6 +386,7 @@
     </div>
   </div>
   <script>
+    const API_BASE = (window.BACKEND_URL && window.BACKEND_URL.trim()) || 'https://chatbotbackend-production-a538.up.railway.app';
     const chatBox = document.getElementById('chatBox');
     const userInput = document.getElementById('userInput');
     const sendBtn = document.getElementById('sendBtn');
@@ -432,7 +433,7 @@
         sendBtn.disabled = true;
         showTypingIndicator();
         setTimeout(() => {
-          fetch('http://localhost:5000/api/chat', {
+          fetch(`${API_BASE}/api/chat`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ message: message }),
