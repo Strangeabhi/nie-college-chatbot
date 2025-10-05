@@ -27,9 +27,8 @@ class NIEAdvancedChatbot:
         self.embeddings_file = embeddings_file
         self.load_faq_data()
         self.load_embeddings()
-        # Initialize embedding model (configurable via env var for Railway)
-        model_name = os.getenv('SENTENCE_MODEL', 'sentence-transformers/all-MiniLM-L6-v2')
-        self.embeddings_model = SentenceTransformer(model_name)
+        # Lazy init embedding model to avoid slow/failed cold starts on Railway
+        self.embeddings_model = None
         self.conversation_memory = {}
         self.response_templates = {
             "cutoff": [
@@ -78,6 +77,18 @@ class NIEAdvancedChatbot:
             logger.error("Embeddings not found! Generate them locally first.")
             raise
 
+    def get_encoder(self):
+        if self.embeddings_model is None:
+            try:
+                model_name = os.getenv('SENTENCE_MODEL', 'sentence-transformers/all-MiniLM-L6-v2')
+                cache_dir = os.getenv('SENTENCE_CACHE_DIR', None)
+                self.embeddings_model = SentenceTransformer(model_name, cache_folder=cache_dir) if cache_dir else SentenceTransformer(model_name)
+                logger.info(f"SentenceTransformer model loaded: {model_name}")
+            except Exception as e:
+                logger.error(f"Failed to load embedding model: {e}")
+                self.embeddings_model = False  # sentinel meaning unavailable
+        return self.embeddings_model
+
     def get_response_variation(self, answer: str) -> str:
         if random.random() > 0.3:
             return answer
@@ -109,7 +120,10 @@ class NIEAdvancedChatbot:
         if 'comedk' in exam_type:
             comedk_indices = [i for i, q in enumerate(self.questions) if 'comedk' in q.lower() and 'cutoff' in q.lower()]
             if comedk_indices:
-                query_emb = self.embeddings_model.encode([exam_type])
+                encoder = self.get_encoder()
+                if encoder is False:
+                    return "COMEDK cutoffs information is available, but the encoder failed to load on the server. Please retry in a minute.", 0.5
+                query_emb = encoder.encode([exam_type])
                 comedk_embeddings = self.embeddings[comedk_indices]
                 similarities = cosine_similarity(query_emb, comedk_embeddings)[0]
                 best_idx = np.argmax(similarities)
@@ -127,7 +141,10 @@ class NIEAdvancedChatbot:
         elif 'kcet' in exam_type:
             kcet_indices = [i for i, q in enumerate(self.questions) if 'kcet' in q.lower() and 'cutoff' in q.lower()]
             if kcet_indices:
-                query_emb = self.embeddings_model.encode([exam_type])
+                encoder = self.get_encoder()
+                if encoder is False:
+                    return "KCET cutoffs information is available, but the encoder failed to load on the server. Please retry in a minute.", 0.5
+                query_emb = encoder.encode([exam_type])
                 kcet_embeddings = self.embeddings[kcet_indices]
                 similarities = cosine_similarity(query_emb, kcet_embeddings)[0]
                 best_idx = np.argmax(similarities)
@@ -171,7 +188,27 @@ class NIEAdvancedChatbot:
             if narrowed:
                 candidate_indices = narrowed
 
-        query_emb = self.embeddings_model.encode([cleaned_query])
+        encoder = self.get_encoder()
+        if encoder is False:
+            # Fallback: simple keyword overlap search across questions when encoder unavailable
+            tokens = set(cleaned_query.split())
+            best_idx = 0
+            best_score = 0.0
+            for i, q in enumerate(self.questions):
+                overlap = tokens.intersection(set(q.lower().split()))
+                score = len(overlap) / (len(tokens) + 1e-6)
+                if score > best_score:
+                    best_idx = i
+                    best_score = score
+            if best_score > 0:
+                answer = self.answers[best_idx]
+                varied_answer = self.get_response_variation(answer)
+                user_history.append(user_query)
+                return varied_answer, float(min(0.49, best_score))
+            fallback_response = self.search_nie_website_fallback(cleaned_query)
+            user_history.append(user_query)
+            return fallback_response, 0.3
+        query_emb = encoder.encode([cleaned_query])
         if len(candidate_indices) != len(self.questions):
             subset_embs = self.embeddings[candidate_indices]
             similarities = cosine_similarity(query_emb, subset_embs)[0]
