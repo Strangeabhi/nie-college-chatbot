@@ -230,7 +230,19 @@ class NIEAdvancedChatbot:
             user_history.append(user_query)
             return fallback_response, 0.3
 
-chatbot = NIEAdvancedChatbot()
+class FallbackChatbot:
+    def __init__(self, error: str):
+        self.error = error
+        self.questions = []
+        self.faq_data = []
+    def get_response(self, user_query: str, user_id: str = "default"):
+        return ("Service is starting up or temporarily unavailable. Please retry in a minute.", 0.1)
+
+try:
+    chatbot = NIEAdvancedChatbot()
+except Exception as init_err:
+    logger.error(f"Chatbot failed to initialize: {init_err}")
+    chatbot = FallbackChatbot(str(init_err))
 
 @app.route('/')
 def index():
