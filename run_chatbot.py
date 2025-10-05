@@ -27,6 +27,9 @@ class NIEAdvancedChatbot:
         self.embeddings_file = embeddings_file
         self.load_faq_data()
         self.load_embeddings()
+        # Initialize embedding model (configurable via env var for Railway)
+        model_name = os.getenv('SENTENCE_MODEL', 'sentence-transformers/all-MiniLM-L6-v2')
+        self.embeddings_model = SentenceTransformer(model_name)
         self.conversation_memory = {}
         self.response_templates = {
             "cutoff": [
