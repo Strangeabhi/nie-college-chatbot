@@ -1,14 +1,25 @@
-# NIE Mysuru FAQ Chatbot 🤖🎓
+# NIE Mysuru Advanced FAQ Chatbot 🤖🎓
 
 An intelligent, AI-powered FAQ chatbot built for The National Institute of Engineering (NIE), Mysuru.
-Perfect for answering student queries 24/7 with a beautiful UI, semantic search, and comprehensive coverage of 427+ questions across all aspects of college life.
+Now featuring **LangChain integration**, **MLOps monitoring**, **dynamic response variations**, and **advanced RAG capabilities** with comprehensive coverage of 427+ questions across all aspects of college life.
 
-> 💡 Originally developed as part of the IIT Chatbot Project.
+> 💡 Originally developed as part of the IIT Chatbot Project. Now upgraded with enterprise-grade features!
 
 ---
 
 ## 🚀 Features
 
+### 🆕 **Advanced Features (NEW!)**
+* 🔗 **LangChain Integration** — enterprise-grade RAG with conversation memory and advanced retrieval
+* 🔄 **Dynamic Response Variations** — different answers for the same question every time
+* 📊 **MLOps Monitoring** — real-time performance tracking, auto-retraining, and analytics
+* 🎯 **Hybrid Search** — combines semantic and keyword matching for better accuracy
+* 💾 **Conversation Memory** — remembers context across multiple questions
+* 📈 **User Feedback System** — collects and learns from user satisfaction scores
+* 🚨 **Auto-Retraining** — automatically improves when performance drops
+* 📱 **Enhanced UI** — modern interface with analytics dashboard and feedback buttons
+
+### 🔥 **Core Features**
 * 🎨 **NIE-branded UI** — modern, mobile-friendly design with campus theme (navy/red/white)
 * 🧠 **AI-powered semantic search** — understands intent using MiniLM (SentenceTransformers)
 * 💬 **Follow-up friendly** — smart query cleaner handles chained queries like "and hostel?"
@@ -23,6 +34,15 @@ Perfect for answering student queries 24/7 with a beautiful UI, semantic search,
 
 ## 🧠 How It Works
 
+### 🆕 **Advanced Architecture (NEW!)**
+1. **LangChain RAG:** Uses FAISS vector store with conversation memory for context-aware responses
+2. **Hybrid Search:** Combines semantic similarity with keyword matching for better retrieval
+3. **Response Variations:** Generates different answers using dynamic templates and context
+4. **MLOps Pipeline:** Continuously monitors performance, collects feedback, and auto-retrains
+5. **Memory System:** Remembers conversation history for follow-up questions
+6. **Feedback Loop:** Learns from user ratings to improve future responses
+
+### 🔥 **Core Process**
 1. **Embeds FAQs:** At startup, it encodes all FAQ questions into vector embeddings.
 2. **Semantic Match:** User query is cleaned and compared via cosine similarity (> 0.75).
 3. **Smart Routing:** Handles specific queries (cutoffs, fees, documents) with targeted responses.
@@ -54,6 +74,22 @@ The chatbot covers **427+ questions** across comprehensive categories:
 
 ## 🛠️ Setup & Local Testing
 
+### 🆕 **Advanced Setup (Recommended)**
+1. Install enhanced dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Start the complete advanced system:
+
+   ```bash
+   python start_advanced_chatbot.py
+   ```
+3. Access the enhanced chatbot at: http://localhost:5000
+4. Check analytics dashboard for performance metrics
+5. Enjoy dynamic responses and conversation memory!
+
+### 🔥 **Basic Setup (Original)**
 1. Install dependencies:
 
    ```bash
@@ -66,6 +102,21 @@ The chatbot covers **427+ questions** across comprehensive categories:
    python api.py
    ```
 4. Open `index.html` in a browser and chat away!
+
+### 🧪 **Testing Commands**
+```bash
+# Test system components
+python start_advanced_chatbot.py test
+
+# Check system status
+python start_advanced_chatbot.py status
+
+# Run MLOps monitor only
+python mlops_monitor.py
+
+# Test accuracy
+python test_accuracy.py
+```
 
 ---
 
@@ -91,6 +142,15 @@ The chatbot covers **427+ questions** across comprehensive categories:
 
 ## 📁 File Structure
 
+### 🆕 **Advanced Files (NEW!)**
+| File / Folder                | Purpose                                    |
+| ---------------------------- | ------------------------------------------ |
+| `advanced_api.py`            | Enhanced Flask API with LangChain & MLOps |
+| `advanced_chatbot_rag.py`    | LangChain-powered RAG with memory         |
+| `mlops_monitor.py`           | MLOps monitoring and analytics system     |
+| `start_advanced_chatbot.py`  | Complete system startup and management    |
+
+### 🔥 **Core Files**
 | File / Folder      | Purpose                            |
 | ------------------ | ---------------------------------- |
 | `api.py`           | Flask backend with REST API        |
@@ -133,6 +193,15 @@ Want to update the bot's answers? Just edit this file and restart the server.
 
 ## 🎯 Smart Features
 
+### 🆕 **Advanced Intelligence (NEW!)**
+* **Dynamic Responses:** Different answers for the same question every time you ask
+* **Conversation Memory:** "Tell me more about CSE" works perfectly after asking about CSE
+* **Hybrid Search:** Combines AI understanding with keyword matching for better results
+* **MLOps Analytics:** Real-time performance monitoring and automatic improvements
+* **User Feedback Learning:** Gets smarter based on user satisfaction ratings
+* **Auto-Retraining:** Automatically updates when performance drops or FAQ changes
+
+### 🔥 **Core Intelligence**
 * **Cutoff Intelligence:** Ask "CSE cutoff" and get comprehensive KCET + COMEDK data
 * **Branch-Specific Responses:** Detailed answers for each engineering branch
 * **Quota-Wise Information:** Separate data for aided, unaided, management, COMEDK
@@ -142,17 +211,55 @@ Want to update the bot's answers? Just edit this file and restart the server.
 
 ---
 
+## 🆕 Advanced Features Deep Dive
+
+### 🔗 **LangChain Integration**
+- **FAISS Vector Store:** Faster and more accurate similarity search
+- **Conversation Memory:** Maintains context across multiple questions
+- **Advanced Retrieval:** Reranking and filtering for better results
+- **Template System:** Dynamic response generation with variations
+
+### 📊 **MLOps Pipeline**
+- **Real-time Monitoring:** Tracks confidence, response time, and accuracy
+- **Performance Analytics:** Detailed metrics and insights dashboard
+- **Auto-Retraining:** Automatically improves when performance drops
+- **Feedback Collection:** User rating system for continuous learning
+- **Export Capabilities:** Analytics data export for further analysis
+
+### 🎯 **Response Variations**
+The chatbot now provides different answers for the same question:
+```
+Question: "What are CSE cutoffs?"
+Answer 1: "KCET cutoffs for CSE at NIE are quite competitive! For the last available year..."
+Answer 2: "CSE cutoffs at NIE vary by exam type: KCET: 8726 rank, COMEDK: 10182 rank..."
+Answer 3: "Great question! CSE is one of NIE's most sought-after branches. Cutoff ranks..."
+```
+
+### 💾 **Memory System**
+- Remembers conversation context
+- Follow-up questions work naturally
+- Personalized responses based on history
+- Session-based user tracking
+
 ## 📱 Mobile Friendly
 
-Built with responsive HTML/CSS. Works great on desktops, tablets, and phones.
+Built with responsive HTML/CSS. Works great on desktops, tablets, and phones. The advanced UI includes analytics dashboard and feedback buttons for better user experience.
 
 ---
 
 ## ✅ Requirements
 
+### 🆕 **Advanced Requirements**
+* Python 3.8+
+* LangChain & FAISS for advanced RAG
+* MLflow for MLOps tracking
+* Prometheus for metrics collection
+* Rich for enhanced CLI experience
+
+### 🔥 **Core Requirements**
 * Python 3.7+
 * MongoDB (local or cloud via Atlas)
-* See `requirements.txt` for dependencies
+* See `requirements.txt` for all dependencies
 
 ---
 

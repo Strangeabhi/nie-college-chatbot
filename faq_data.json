@@ -67,7 +67,7 @@
         "answer": "NIE is ranked among the top engineering colleges in Karnataka and is consistently ranked in the top 50 engineering colleges in India by various ranking agencies."
       },
       {
-        "question": "ranking",
+        "question": "college ranking position",
         "answer": "NIE is ranked among the top engineering colleges in Karnataka and is consistently ranked in the top 50 engineering colleges in India by various ranking agencies."
       },
       {
@@ -276,7 +276,7 @@
         "answer": "Computer Science Engineering (CSE) and Computer Science & Engineering – AI & ML (CI) typically have the highest cutoffs at NIE, followed by Information Science Engineering (ISE)."
       },
       {
-        "question": "highest cutoff",
+        "question": "branch with highest cutoff",
         "answer": "Computer Science Engineering (CSE) and Computer Science & Engineering – AI & ML (CI) typically have the highest cutoffs at NIE, followed by Information Science Engineering (ISE)."
       },
       {
@@ -284,7 +284,7 @@
         "answer": "Civil Engineering typically has the lowest cutoff at NIE, followed by Mechanical Engineering and Electrical and Electronics Engineering (EEE)."
       },
       {
-        "question": "lowest cutoff",
+        "question": "branch with lowest cutoff",
         "answer": "Civil Engineering typically has the lowest cutoff at NIE, followed by Mechanical Engineering and Electrical and Electronics Engineering (EEE)."
       },
       {
@@ -635,7 +635,7 @@
          "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
        },
        {
-         "question": "admission",
+         "question": "general admission info",
          "answer": "Admission to NIE is through KCET, COMEDK, and management quota for undergraduate courses. Students need to qualify in these entrance exams and meet the cutoff criteria."
        },
        {
@@ -687,7 +687,7 @@
          "answer": "Eligibility: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% marks (40% for SC/ST). Students must qualify KCET or COMEDK entrance exam."
        },
        {
-         "question": "eligibility",
+         "question": "general eligibility criteria",
          "answer": "Eligibility: 10+2 with Physics, Chemistry, and Mathematics with minimum 45% marks (40% for SC/ST). Students must qualify KCET or COMEDK entrance exam."
        },
        {
@@ -1348,27 +1348,27 @@
       "category": "Greetings and General Chat",
       "questions": [
         {
-          "question": "hi",
+          "question": "greeting hi",
           "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
         },
         {
-          "question": "hello",
+          "question": "greeting hello",
           "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
         },
         {
-          "question": "hey",
+          "question": "greeting hey",
           "answer": "Hello! How can I assist you today with information about NIE Mysuru?"
         },
         {
-          "question": "good morning",
+          "question": "greeting good morning",
           "answer": "Good morning! How can I help you today with information about NIE Mysuru?"
         },
         {
-          "question": "good afternoon",
+          "question": "greeting good afternoon",
           "answer": "Good afternoon! How can I help you today with information about NIE Mysuru?"
         },
         {
-          "question": "good evening",
+          "question": "greeting good evening",
           "answer": "Good evening! How can I help you today with information about NIE Mysuru?"
         },
         {
@@ -1608,6 +1608,10 @@
       "sub_category": "ALPHA Lab (Artificial Learning Platform for Higher Aspirations)",
       "questions": [
         {
+          "question": "ALPHA?",
+          "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
+        },
+        {
           "question": "What is the ALPHA Lab at NIE?",
           "answer": "The ALPHA Lab (Artificial Learning Platform for Higher Aspirations) at NIE is a dedicated research and innovation center for AI and ML. It also functions as the ALPHA Innovation & Tinkerers' Lab, focusing on fostering student innovation, hands-on learning, and interdisciplinary projects. It provides high-end GPU servers, access to advanced AI/ML tools and datasets, and industry mentorship for UG, PG, and research scholars working on hands-on projects, startups, and industry collaborations."
         },
@@ -1699,6 +1703,22 @@
         { "question": "ragging complaint process at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
         { "question": "campus safety at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." },
         { "question": "student mentoring at NIE", "answer": "NIE has zero tolerance for ragging. There have been no major ragging incidents in recent years, and any reported cases are acted on immediately. The campus and hostels are monitored 24/7 by wardens, and student mentoring is provided. Students can report anonymously, and official anti-ragging contacts are available on the NIE Anti-Ragging portal." }
+      ]
+    },
+    {
+      "category": "Casual & Off-Topic Questions",
+      "questions": [
+        { "question": "How are you?", "answer": "I'm doing great! I'm here to help you with NIE info 😎" },
+        { "question": "What's your name?", "answer": "I'm your NIE guide, created by Abhishek Patil! Which department info do you want?" },
+        { "question": "Who's your friend?", "answer": "I'm focused on helping students like you. Abhishek made sure I know all about NIE!" },
+        { "question": "Do you like pizza?", "answer": "I don't eat, but I hear NIE cafeteria has some great food options!" },
+        { "question": "Tell me a joke", "answer": "Haha! I'm better at NIE info than jokes 😅 Want me to tell you about the latest CSE cutoffs?" },
+        { "question": "Are you real?", "answer": "I exist in code, but I'm real enough to help with NIE queries! Abhishek knows all the college details 😎" },
+        { "question": "What's up?", "answer": "All good! By the way, NIE has some exciting updates this week." },
+        { "question": "Can you do magic?", "answer": "Not really 😎, but I can magically find any NIE info you need!" },
+        { "question": "Do you sleep?", "answer": "I'm always awake to help with NIE questions!" },
+        { "question": "Who's your creator?", "answer": "I was created by Abhishek Patil, NIE 2027 passout. I can help you with any college info!" },
+        { "question": "Who made you?", "answer": "I'm a creation of Abhishek Patil, NIE 2027 passout. Ask me about courses, placements, or hostels!" }
       ]
     }
   ]

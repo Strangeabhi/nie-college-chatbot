@@ -1,0 +1,16 @@
+# Minimal requirements for advanced chatbot deployment
+# Core web framework
+flask==2.0.1
+flask-cors==3.0.10
+
+# Core ML libraries (essential)
+numpy==1.23.5
+scikit-learn==1.1.3
+sentence-transformers==2.2.2
+
+# Web scraping (for fallback)
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Basic utilities
+python-dateutil==2.8.2
