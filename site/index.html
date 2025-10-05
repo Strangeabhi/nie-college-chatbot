@@ -2,15 +2,34 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>NIE Chatbot</title>
-  </head>
-  <body>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NIE College Assistant Chatbot</title>
     <script>
       window.BACKEND_URL = "https://chatbotbackend-production-a538.up.railway.app";
     </script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    <style>html,body{margin:0;padding:0;font-family:Inter,system-ui,Arial,sans-serif;background:#f7f7f7} .wrap{max-width:900px;margin:40px auto;padding:16px} .box{background:#fff;border:1px solid #eee;border-radius:12px;box-shadow:0 10px 30px rgba(0,0,0,.06);overflow:hidden} .head{padding:16px 20px;border-bottom:1px solid #eee;font-weight:700;color:#1a2a6c} .content{padding:16px;min-height:60vh} .row{display:flex;gap:8px;margin-top:10px} .row input{flex:1;border:1px solid #ddd;border-radius:8px;padding:12px;font-size:16px} .row button{background:#b21f1f;color:#fff;border:none;border-radius:8px;padding:12px 18px;font-weight:700;cursor:pointer} .msg{margin:10px 0;padding:12px 14px;border-radius:10px;border:1px solid #eee} .bot{background:#002147;color:#fff} .user{background:#f0f0f0}</style>
+  </head>
+  <body>
+    <div class="wrap">
+      <div class="box">
+        <div class="head">NIE College Assistant Chatbot</div>
+        <div id="chat" class="content"></div>
+        <div class="row">
+          <input id="q" placeholder="Ask me anything about the college..." />
+          <button id="send">Send</button>
+        </div>
+      </div>
+    </div>
     <script>
-      // Minimal redirect to root index so styling remains
-      window.location.href = "../index.html";
+      const API_BASE = window.BACKEND_URL || "https://chatbotbackend-production-a538.up.railway.app";
+      const chat = document.getElementById('chat');
+      const q = document.getElementById('q');
+      const send = document.getElementById('send');
+      function add(text, cls){ const d=document.createElement('div'); d.className='msg '+cls; d.innerHTML=text.replace(/\n/g,'<br>'); chat.appendChild(d); chat.scrollTop=chat.scrollHeight; }
+      function go(){ const t=q.value.trim(); if(!t) return; add(t,'user'); q.value=''; fetch(`${API_BASE}/api/chat`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({message:t})}).then(r=>r.json()).then(j=>add(j.response,'bot')).catch(()=>add("Connection error. Try again.", 'bot')); }
+      send.onclick=go; q.addEventListener('keypress',e=>{ if(e.key==='Enter') go(); });
+      add("Hello! I'm your College Assistant. How can I help you today?", 'bot');
     </script>
   </body>
 </html>
